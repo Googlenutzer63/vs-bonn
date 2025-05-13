@@ -485,7 +485,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 36.2.  | VWL                                                                | Volkswirtschaftslehre     | Bachelor of Science       |   |
 | 36.3.  | VWL                                                                | Volkswirtschaftslehre     | Promotion                 |   |
 | 36.4.  | VWL                                                                | Wirtschaftswissenschaften | Bachelor of Arts          |   |
-| 36.2.  | VWL                                                                | Law and Economics         | Bachelor of Laws          | X |
+| 36.5.  | VWL                                                                | Law and Economics         | Bachelor of Laws          | X |
 | 37.1.  | Zahnmedizin                                                        | Zahnmedizin               | Doctor of Philosophy      |   |
 | 37.2.  | Zahnmedizin                                                        | Zahnmedizin               | Med.Doc/Doc.of Philosophy |   |
 | 37.3.  | Zahnmedizin                                                        | Zahnmedizin               | Promotion                 |   |
