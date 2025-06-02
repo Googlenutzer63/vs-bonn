@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Gliederung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn in Fachschaften (Studierendenschaftsgliederungssatzung - SGliedS)
 short: Satzung über die Gliederung der Studierendenschaft in Fachschaften (Studierendenschaftsgliederungssatzung - SGliedS)
-date:  – Entwurfsfassung –
+date:  – beschlossen von der FK am 02.06.2025, bestätigt durch das SP am XX.XX.2025 –
 type:  Satzung
 id:    SGliedS
 contains:
