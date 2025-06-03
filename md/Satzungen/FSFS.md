@@ -452,7 +452,7 @@ Antragssumme nicht in voller Höhe zugestimmt wurde.
 
 (7) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
 vorgestellt werden konnten, gelten als nicht gestellt und müssen neu beantragt werden.
-Angenommene Anträge verfallen drei Jahre nach Beschluss, sofern sie aufgrund
+Angenommene Anträge verfallen mit Abschluss des sechten Semesters nach Abschluss der Maßnahme auf welche sich der Antrag bezieht, sofern sie aufgrund
 inkorrekter Angaben oder mangels Auszahlungsfähigkeit nicht ausgezahlt werden
 konnten.
 
@@ -784,7 +784,7 @@ RFWU Bonn eingeschrieben sind.
 ##### 3.1.2 Klausurfahrten
 
 1. Fahrt vorrangig für aktive Fachschaftsmitglieder, um gezielt an fachschaftsbezogenen
-Themen zu arbeiten. Der Anteil der nicht-aktiven Fachschaftsmitglieder soll 20 % nicht überschreiten, sofern dies mehr als 3 Teilnehmende sind. Die Klassifizierung von Personen, die nicht gewähltes Mitglied von FSV oder FSR sind ist zu begründen. Hierzu sind die entsprechenden Ämter oder Begründungen in die Teilnehmendenliste mitaufzunehmen oder in einem separaten Dokument aufzulisten.
+Themen zu arbeiten. Der Anteil der von Personen die nicht aktive Fachschaftsmitglieder sind soll 20 % nicht überschreiten, sofern dies mehr als 3 Teilnehmende sind. Die Berücksichtigung von Personen, die nicht gewähltes Mitglied von FSV oder FSR sind oder innerhalb der letzen 8 Monate waren, als aktive Fachschaftsmitglieder ist zu begründen. Hierzu sind die entsprechenden Ämter oder Begründungen in die Teilnehmendenliste mitaufzunehmen oder in einem separaten Dokument aufzulisten.
 2. Klausurfahrten sollen regional im Umkreis zu Bonn stattfinden. (< 100 km
 Entfernung). Beträchtlich weitere Fahrten (> 120 km) müssen begründet werden.
 Die Entfernung ergibt sich aus der Luftlinie zwischen dem Hauptgebäude der
