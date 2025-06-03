@@ -43,8 +43,8 @@ oder seine zeichnungsberechtigte Stellvertretung angewiesen.
 
 (4) Antragsberechtigt sind die Fachschaftsräte der RFWU Bonn.
 
-(5) Die Finanzanträge und die Dokumente einer Fachschaft sollen im FSK nicht von einer
-Person mit gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewiesen werden.
+(5) Die Finanzanträge und die Dokumente einer Fachschaft sollen im FSK nicht von
+Personen gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewiesen werden.
 
 (6) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
@@ -68,7 +68,7 @@ der Verwaltung und Lehre der Universität zu finanzieren.
 9. die Fachschaft hat eine korrekte Haushaltsrechnung für ihr letztes Haushaltsjahr, und
 10. das letzte Haushaltsjahr der Fachschaft ist vollständig von Kassenprüfungen abgedeckt.
 
-Die Punkte 7, 8 und 9 entfallen für Fachschaften, die neu gegründet wurden und 
+Die Punkte 8, 9 und 10 entfallen für Fachschaften, die neu gegründet wurden und 
 deshalb kein letztes Haushaltsjahr hatten.
 
 Die Erfüllung dieser Voraussetzungen wird als „Auszahlungsfähigkeit“ bezeichnet.
@@ -99,7 +99,7 @@ weniger als 0 € beträgt.
 Die FK ist über die Entscheidung des FSK zu informieren und kann die
 Maßnahme verweigern.
 
-Abweichend von Nr. 1 kann die FK beschließen, dass der FSK-Vorsitz Gelder an eine Fachschaft anweisen kann, wenn Nr. 2 erfüllt ist und die Fachschaft die nicht erfüllten Vorraussetzungen nicht zumutbar innerhalb der nächsten 2 Monate heilen kann. 
+Abweichend von Nr. 1 kann die FK beschließen, dass das FSK Gelder an eine Fachschaft anweisen kann, wenn Nr. 2 erfüllt ist und die Fachschaft die nicht erfüllten Vorraussetzungen nicht zumutbar innerhalb der nächsten 2 Monate heilen kann. 
 
 Die Anweisung soll in diesen Fällen nur in dem Umfang erfolgen, der notwendig ist um eine besondere Härte nach Nr. 2 innerhalb des laufenden Haushaltsjahres abzuwenden.
 
@@ -166,7 +166,7 @@ nachzuweisen.
 (2) Beginn und Ende des Haushaltsjahres einer Fachschaft werden in ihrer Fachschaftssatzung festgelegt.
 Es soll entweder der Zeitraum "1. April eines Jahres bis 31. März des Folgejahres" oder der Zeitraum "1. Oktober eines Jahres bis 30. September des Folgejahres" festgelegt werden.
 
-(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer und Zeitraum in einer Übergangsbestimmung festzuhalten ist.
+(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer und Zeitraum in einer Übergangsbestimmung festzuhalten sind.
 
 
 ### § 6 Haushaltsplan
@@ -381,7 +381,11 @@ oder seiner zeichnungsberechtigten Stellvertretung angewiesen.
 der Antrag bezieht, die Voraussetzungen des Absatz 3 nicht erfüllen,
 gelten als nicht gestellt.
 
-(6) Das FSK kann die Frist nach Absatz 5 einmalig verlängern, wenn für einen Antrag alle Dokumente
+(6) Anträge, die sieben Semester nach Ablauf des Semesters, auf das sich
+der Antrag bezieht, mangels Auszahlungsfähigkeit nicht ausgezahlt werden konnten,
+gelten als nicht gestellt.
+
+(7) Das FSK kann die Frist nach Absatz 5 einmalig verlängern, wenn für einen Antrag alle Dokumente
 nach Absatz 3 vorliegen und lediglich noch behebbare Mängel aufweisen. Das FSK teilt der betroffenen
 Fachschaft hierfür die zu behebenden Mängel sowie eine angemessene Frist zur Behebung dieser
 Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
@@ -403,15 +407,17 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 
 ### § 19 Reservierung der AFSG
 
-(1) Nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss des Verwahrhaushalts der Fachschaften zu berücksichtigen.
+(1) Nach Verstreichen der Antragsfrist nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
 
 (2) Beantragte AFSG sind zu reservieren, bis sie vervollständigt sind oder die Vervollständigungsfrist verstrichen ist.
 
 (3) Der Betrag von AFSG-Anträgen, die nach ihrer Vervollständigungsfrist nicht vollständig sind und somit als nicht gestellt gelten,
 ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
 
-(4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden, höchstens aber bis zum Ende des 6. Semesters nach dem Semester auf das sich der Antrag bezieht. 
+(4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden oder die Auszahlungsfrist nach § 17 Absatz 6 verstrichen ist. 
 
+(5) Der Betrag von AFSG-Anträgen, die nach Ablauf der Auszahlungsfrist nach § 17 Absatz 6 nicht ausgezahlt wurden und somit als nicht gestellt gelten,
+ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
 
 # Abschnitt 4 - Besondere Fachschaftengelder (BFSG)
 
