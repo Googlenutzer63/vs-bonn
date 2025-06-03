@@ -657,11 +657,14 @@ Fachschaftengeldern (BFSG) aufgerechnet werden.
 
 (1) Sofern nichts anderes bestimmt wird, sind Änderungen der Regelungen in § XXX (pls define @Sven) und in Anlage 1 stets erst auf Anträge anzuwenden, die für Semester gestellt werden, welche nach dem Semester liegen, in dem die Änderungen bekannt gemacht werden.
 
-(2) Fachschaften, denen in den Semestern vor dem Wintersemester 2021/22
+(2) Fachschaften, denen in den Semestern vor dem Sommersemester 2023
 bewilligte Besondere Fachschaftengelder (BFSG) noch nicht ausgezahlt wurden,
-können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2025
+können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2026
 erwirken, sofern sie auszahlungsfähig sind.
 
+(3) Fachschaften, denen vollständige Anträge auf Allgemeine Fachschaftengelder (AFSG) die Semester vor dem Wintersemester 2022/23 betreffen noch nicht ausgezahlt wurden,
+können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2026
+erwirken, sofern sie auszahlungsfähig sind.
 
 
 ### § 26 Inkrafttreten
