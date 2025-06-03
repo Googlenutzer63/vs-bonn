@@ -452,7 +452,7 @@ Antragssumme nicht in voller Höhe zugestimmt wurde.
 
 (7) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
 vorgestellt werden konnten, gelten als nicht gestellt und müssen neu beantragt werden.
-Angenommene Anträge verfallen mit Abschluss des sechten Semesters nach Abschluss der Maßnahme auf welche sich der Antrag bezieht, sofern sie aufgrund
+Angenommene Anträge verfallen mit Abschluss des sechten Semesters nach dem Semester für welches der Antrag gestellt wurde, sofern sie aufgrund
 inkorrekter Angaben oder mangels Auszahlungsfähigkeit nicht ausgezahlt werden
 konnten.
 
