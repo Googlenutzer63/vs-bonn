@@ -435,8 +435,8 @@ sich nach den Bestimmungen dieser Satzung.
 Antragsanlässen ist der Endzeitpunkt maßgeblich. Dem Antrag sind die in Anlage 1
 geforderten Unterlagen beizufügen. Das FSK hat das Recht unvollständige Anträge zurückzuweisen.
 
-(3) Im Regelfall werden Anträge auf der ersten Finanz-FK eines Monats
-vorgestellt und auf der zweiten abgestimmt. Auf Ferien-FKen und in besonderen
+(3) Im Regelfall werden Anträge auf der ersten FK eines Monats
+vorgestellt und auf der zweiten abgestimmt \[Finanz-FKen\]. Auf Ferien-FKen und in besonderen
 Ausnahmefällen entfällt diese Vorgabe. Das FSK bringt die vollständigen Anträge
 zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge,
 die weniger als zwei Wochen vor der nächsten Ferien-FK oder Finanz-FK, auf welcher Anträge vorgestellt werden
