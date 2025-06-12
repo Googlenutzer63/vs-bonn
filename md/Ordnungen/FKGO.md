@@ -1,10 +1,15 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  11. März 2025
+date:  – Entwurfsfassung –
 type:  Ordnung
 id:    FKGO
 contains:
+- title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
+  short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
+  date:  11. März 2025
+  type:  Ordnung
+  id:    FKGO
 - title:    Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
   short:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   actorgan: Fachschaftenkonferenz
@@ -923,17 +928,7 @@ Bonn hat Rederecht.
 Gelder über die FK beantragen.
 
 
-## VII. Finanzen
-
-(§§ 25 bis 33 weg, Inhalt von FSFS abgedeckt, bis auf:)
-
-(4) Die ersten beiden FKs eines Monats sind
-Finanzfachschaftenkonferenzen, soweit sie innerhalb der
-Vorlesungszeit liegen \[Finanz-FK\]. Die FK kann abweichende Termine
-festlegen.
-
-
-### § 34 Schlussbestimmungen
+### § 25 Schlussbestimmungen
 
 (1) Diese Geschäftsordnung tritt mit ihrer Veröffentlichung durch die
 Öffentlichkeitsbeauftragte in Kraft.
@@ -944,19 +939,6 @@ entsprechend.
 
 (3) Im Falle einer planwidrigen Regelungslücke ist die Geschäftsordnung des
 Bonner Studierendenparlaments entsprechend anzuwenden.
-
-----
-
-# Anlage I zur FKGO -- AFSG
-
-(weg, Inhalt von FSFS abgedeckt)
-
-----
-
-
-# Anlage II zur FKGO -- Kriterienkatalog
-
-(weg, Inhalt von FSFS abgedeckt)
 
 
 
@@ -982,9 +964,3 @@ Bonner Studierendenparlaments entsprechend anzuwenden.
 | SP        | *Studierendenparlament*                                               | Oberstes beschlussfassendes Organ der Studierendenschaft |
 
 
-----
-
-
-# Anlage Fachschaftenliste
-
-(weg, ist jetzt in SGliedS)
