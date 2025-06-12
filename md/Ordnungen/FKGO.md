@@ -758,7 +758,7 @@ Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
 (1) In besonderen Ausnahmefällen kann die FK zwei Personen zu gleichberechtigten Vorsitzenden des FSK wählen. Sie dürfen nicht einer gleichen Fachschaft angehören.
 
-(2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
+(2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung und die Vorsitzenden des FSK sind zugleich beide Referentinnen des Fachschaftenreferats. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
 Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
 ### § 22 Aufgaben des FSK
