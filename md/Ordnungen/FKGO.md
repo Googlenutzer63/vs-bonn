@@ -736,7 +736,7 @@ des Amtes möglich. § 13 gilt entsprechend. Die Abstimmung zur Abwahl und die
 Einladung zur nächsten Sitzung übernimmt eine gewählte Sitzungsleitung.
 
 (2) Die Posten des Vorsitzes und der zeichnungsberechtigten Stellvertreterin im
-Fachschaftenreferat können nicht von Personen der gleichen
+Fachschaftenreferat können nicht von Personen mit einer gleichen
 Fachschaftszugehörigkeit besetzt werden.
 
 (3) Zusätzliche Mitglieder des FSK können jederzeit gewählt werden. Ihre
@@ -752,9 +752,14 @@ oder einem weiteren Amt innerhalb des AStA.
 
 (6) Das Amt eines weiteren Mitgliedes des FSK ist unvereinbar mit der
 Mitgliedschaft in einem FSV-Präsidium, der Mitgliedschaft in einem FSR-
-Vorstand, dem Posten der Finanzreferentin einer Fachschaft oder einem
-Referentinnenposten innerhalb des AStA.
+Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
+### § 21a Wahl zweier Vorsitzenden des Fachschaftenkollektivs
+
+(1) In besonderen Ausnahmefällen kann die FK zwei Personen zu gleichberechtigten Vorsitzenden des FSK wählen. Sie dürfen nicht einer gleichen Fachschaft angehören.
+
+(2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
+Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
 ### § 22 Aufgaben des FSK
 
