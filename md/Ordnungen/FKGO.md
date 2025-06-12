@@ -754,7 +754,7 @@ oder einem weiteren Amt innerhalb des AStA.
 Mitgliedschaft in einem FSV-Präsidium, der Mitgliedschaft in einem FSR-
 Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
-### § 21a Wahl zweier Vorsitzenden des Fachschaftenkollektivs
+### § 21a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
 
 (1) In besonderen Ausnahmefällen kann die FK zwei Personen zu gleichberechtigten Vorsitzenden des FSK wählen. Sie dürfen nicht einer gleichen Fachschaft angehören.
 
