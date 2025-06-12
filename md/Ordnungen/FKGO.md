@@ -314,17 +314,13 @@ nichtöffentlichen Beratung hinzugezogen werden.
 ### § 3 Zusammentreten
 
 (1) Die FK tritt an jedem Montag der Vorlesungszeit zusammen. Ausgenommen
-sind weitere vorlesungsfreie Tage sowie vom Vorsitz des Fachschaftenkollektivs (FSK)
+sind vorlesungsfreie Tage sowie vom Vorsitz des Fachschaftenkollektivs (FSK)
 rechtzeitig bekannt gegebene weitere Termine. Der Ort und die Uhrzeit
-werden vom Vorsitz des FSK rechtzeitig bekannt gegeben. Die ersten beiden
-FKen eines Monats sind Finanzfachschaftenkonferenzen, soweit sie innerhalb der
-Vorlesungszeit liegen (Finanz-FK). Die FK kann abweichende Termine für
-Finanz-FKen festlegen.
+werden vom Vorsitz des FSK rechtzeitig bekannt gegeben. 
 
-(2) In der vorlesungsfreien Zeit sollen mindestens zwei Fachschaftenkonferenzen
+(2) In der vorlesungsfreien Zeit eines jeden Semesters sollen mindestens zwei Fachschaftenkonferenzen
 stattfinden (Ferien-FKen), deren Termine vom Vorsitz des FSK vor Ende der
-Vorlesungszeit bekannt gegeben werden. Ferien-FKen sind grundsätzlich auch
-Finanz-FKen, solange die FK im Einzelfall nichts Gegenteiliges beschließt.
+Vorlesungszeit bekannt gegeben werden. 
 
 (3) Der Vorsitz des FSK beruft auf Antrag von 5 Fachschaften eine
 Sonderfachschaftenkonferenz (Sonder-FK) ein. Im Antrag sind die zu
@@ -613,13 +609,15 @@ Personalwahlen.
 (1) Stimmberechtigt sind die von einem Organ einer Fachschaft dazu
 bevollmächtigten Vertreterinnen (Delegierten). Jede Fachschaft hat bei
 Abstimmungen eine Stimme. Mitglieder des Fachschaftenkollektivs (FSK) dürfen
-nicht abstimmen.
+nicht abstimmen. 
 
-(2) Die Delegierten der Fachschaften haben ihre Bevollmächtigung auf Verlangen
+(2) Versuchen mehrere Delegierte der gleichen FS ihre Stimme bei einer Abstimmung abzugeben, so zählen die Stimmen als eine. Versuchen mehrere Delegierte einer FS bei einer Abstimmung unterschiedlich abzustimmen, so zählen ihre Stimmen als eine Enthaltung
+
+(3) Die Delegierten der Fachschaften haben ihre Bevollmächtigung auf Verlangen
 des FSK, der Sitzungsleitung oder von mindestens drei Fachschaften
 nachzuweisen.
 
-(3) Mitglieder des FSK können nicht Delegierte einer Fachschaft sein.
+(4) Mitglieder des FSK können nicht Delegierte einer Fachschaft sein.
 
 
 ### § 15 Abstimmungen
@@ -831,7 +829,7 @@ Fachschaft die Pflicht, das Rektorat unverzüglich zu informieren.
 
 ### § 23 Ausschüsse
 
-(1) Es gibt drei ständige Ausschüsse der FK. Sie kann darüber hinaus weitere
+(1) Es gibt zwei ständige Ausschüsse der FK. Sie kann darüber hinaus weitere
 Ausschüsse einrichten. Die Ausschüsse der FK bestehen aus mindestens 3 durch
 die FK gewählten Mitgliedern.
 
@@ -843,57 +841,51 @@ möglich.
 (3) Die Ausschussmitglieder müssen Studierende der RFWU Bonn sein.
 Ausschüsse sollen geschlechter- und fakultätsparitätisch besetzt werden.
 
-(4) Die Ausschüsse bestimmen auf der FK aus ihrer Mitte einen Vorsitz. Der
+(4) Der Vorsitz des Fachschaftenkollektivs oder eine von ihm benannte Person sitzt einem Ausschuss vor. Der
 Ausschussvorsitz beruft die Sitzungen ein, leitet diese und ist für die
 Weiterleitung von Arbeitsergebnissen verantwortlich. Ausschusssitzungen sind
-grundsätzlich hochschulöffentlich.
+grundsätzlich hochschulöffentlich. 
 
 (5) Die ständigen Ausschüsse der FK bilden:
 
-a. der Wahlprüfungsausschuss der Fachschaftenkonferenz (WpaFK)
+a. der Wahlprüfungsausschuss der Fachschaftenkonferenz (WPAFK)
 b. der Geschäftsordnungs- und Satzungsausschuss der Fachschaftenkonferenz (GoSaFK)
-c. der Haushaltsausschuss der Fachschaftenkonferenz (HauF)
 
-(6) Die Bestimmungen zum Wahlprüfungsausschuss der Fachschaften (WpaFK)
-richten sich nach § 24 der Fachschaftswahlordnung. Ihm gehören mindestens 5
-Mitglieder an.
+
+(6) Die Bestimmungen zum Wahlprüfungsausschuss der Fachschaften (WPAFK)
+richten sich nach § 24 der Fachschaftswahlordnung. Ihm gehören 5
+Mitglieder an, solange die Fachschaftswahlordnung keine andere Anzahl festlegt.
 
 (7) Der Satzungs- und Geschäftsordnungsausschuss (GoSaFK) ist für die
 Ausarbeitung von Dokumenten, welche die Arbeit der Fachschaften regeln,
 zuständig. Dazu gehören insbesondere diese Geschäftsordnung und die
 Fachschaftswahlordnung.
 
-(8) Der Haushaltsausschuss (HauF) ist in Abstimmung mit FSK und AStA-
-Finanzreferat zuständig für die Planung der Selbstbewirtschaftungsmittel der
-Fachschaften in Anlage 1 zur FKGO, Beitragsordnung (BO) und im
-Haushaltsplan (HHP) der Studierendenschaft. Der HauF erarbeitet die
-Beschlussempfehlungen der FK bezüglich dem Haushaltsplan (HHP) und der
-Beitragsordnung der Studierendenschaft (BO); er ist durch das FSK hierfür
-mindestens 14 Tage vorher anzurufen und mit den nötigen Informationen zur
-Haushaltführung der Fachschaften zu versorgen. Vorsitz des HauF muss ein
-Mitglied des FSK sein.
-
-(9) Solange ein ständiger Ausschuss unbesetzt ist oder nicht die Mindestanzahl an
+(8) Solange ein ständiger Ausschuss unbesetzt ist oder nicht die Mindestanzahl an
 Mitgliedern aufweist, übernimmt das FSK seine Aufgabe. Ausgenommen hiervon
-ist der WpaFK sofern die Fachschaftswahlordnung diese Möglichkeit nicht
+ist der WPAFK sofern die Fachschaftswahlordnung diese Möglichkeit nicht
 vorsieht.
 
-(10) Die FK kann die weiteren Ausschüsse durch Mehrheitsbeschluss bilden und
+(9) Die FK kann die weiteren Ausschüsse durch Mehrheitsbeschluss bilden und
 auflösen. Die weiteren Ausschüsse der FK haben beratende Funktion und
-erarbeiten Empfehlungen für die FK.
+erarbeiten Empfehlungen für die FK. 
 
-(11) Der Vorsitz des FSK hat das Recht in begründeten Fällen für Ausschüsse der
+(10) Der Vorsitz des FSK hat das Recht in begründeten Fällen für Ausschüsse der
 Fachschaftenkonferenz, in welchen die Mindestanzahl der Mitglieder nicht
 erreicht ist, vorrübergehend neue Mitglieder zu benennen. Eine solche
 Entscheidung ist durch die nächste FK zu bestätigen. Die Bestätigung ersetzt
 nicht die Wahl über welche auf der, auf die bestätigende FK folgende, FK zu
 bescheiden ist.
 
-(12) Für die Sitzungen der Ausschüsse gelten die Regelungen der
+(11) Die Ladungsfrist für Ausschusssitzungen beträgt 3 Tage. Wurde nicht mindestens 7 Tage vor der Sitzung eingeladen und erklärt die Mehrheit der gewählten Ausschussmitglieder gegenüber dem FSK-Vorsitz ihr Verlangen nach einem alternativen Sitzungstermin innerhalb von 48 Stunden nach Einladungsversand, so ist diesem Verlangen zu entsprechen, die betreffende Sitzung abzuladen und schnellstmöglich, spätestens aber innerhalb von 14 Tagen eine neue Sitzung mit einer Ladungsfrist von 7 Tagen einzuberufen.
+
+(12) Die Ausschüsse sind unbeachtet der Anzahl der anwesenden Mitglieder beschlussfähig, wenn ordnungsgemäß eingeladen wurde und der Ausschussvorsitz oder der FSK-Vorsitz anwesend sind.
+
+(13) Darüber hinaus gelten für die Sitzungen der Ausschüsse die Regelungen der
 Geschäftsordnung des Studierendenparlaments zu Ausschüssen soweit anwendbar
 entsprechend.
 
-(13) Die FK entsendet gemäß § 12 Absatz 7 Satzung der Studierendenschaft (SdS)
+(14) Die FK entsendet gemäß § 12 Absatz 7 Satzung der Studierendenschaft (SdS)
 je ein ordentliches und ein stellvertretendes Mitglied in die Ausschüsse des
 Studierendenparlaments. Der Vorsitz des FSK weist die Fachschaften auf
 unbesetzte Ausschüsse hin, leitet die Nominierungen der FK umgehend an das
