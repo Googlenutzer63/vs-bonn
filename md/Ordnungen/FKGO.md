@@ -761,6 +761,10 @@ Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 (2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung und die Vorsitzenden des FSK sind zugleich beide Referentinnen des Fachschaftenreferats. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
 Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
+(3) Hält eine Vorsitzende eine Maßnahme der anderen Vorsitzenden für unrechtmäßig oder unverhältnismäßig, so ist die Wirkung der Maßnahme sofern dies möglich ist aufgeschoben, bis die FK sich bei ihrem nächsten Zusammentreten nicht mehrheitlich gegen die strittige Maßnahme ausgesprochen hat. Spricht die FK sich mehrheitlich gegen eine strittige Maßnahme aus, ist diese soweit möglich rückabzuwickeln. Abweichend von § 13 sind alle 3 Lesungen auf einer Sitzung durchzuführen, sofern die FK nichts gegenteiliges beschließt. Im Falle eines solchen Beschlusses hat die aufschiebende Wirkung bestand. In besonderen Ausnahmefällen und insbesondere Fällen besonderer Dringlichkeit die das Abwarten der nächsten FK nicht ermöglichen, kann das FSK die aufschiebende Wirkung mit Mehrheit von 2/3 der FSK-Mitglieder, die nicht Vorsitz des FSK sind, aufheben.
+
+(4) Für Unterlassungen sind beide Vorsitzende gleichermaßen verantwortlich, sofern nicht in gegenseitigem Einvernehmen eine schriftliche Übertragung der Verantwortung auf eine der Vorsitzenden erfolgt ist.
+
 ### § 22 Aufgaben des FSK
 
 (1) Die Aufgaben des Fachschaftenkollektivs (FSK) sind:
