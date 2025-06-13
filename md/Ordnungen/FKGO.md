@@ -919,7 +919,7 @@ zusammentritt.
 (3) Zu den Sitzungen wird mit mindestens einer Woche Vorlauf durch den Vorsitz
 der Fakultäts-FK eingeladen. Die Einladung ist zusammen mit der vorläufigen
 Tagesordnung mindestens an die Fachschaften der Fakultät und das
-Fachschaftenkollektiv (FSK) zu verschicken.
+Fachschaftenkollektiv (FSK) zu verschicken. Außerdem sollen die studentischen Mitglieder im Fakultätsrat eingeladen werden.
 
 (4) Jede Fachschaft der Fakultät hat bei Abstimmungen eine Stimme, sofern sie
 eine Vertreterin bestimmt hat. Jedes Mitglied der Studierendenschaft der RFWU
