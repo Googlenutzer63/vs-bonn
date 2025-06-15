@@ -318,23 +318,30 @@ sind vorlesungsfreie Tage sowie vom Vorsitz des Fachschaftenkollektivs (FSK)
 rechtzeitig bekannt gegebene weitere Termine. Der Ort und die Uhrzeit
 werden vom Vorsitz des FSK rechtzeitig bekannt gegeben. 
 
-(2) In der vorlesungsfreien Zeit eines jeden Semesters sollen mindestens zwei Fachschaftenkonferenzen
+(2) Im Regelfall sind die ersten beiden FKen eines Monats sind Finanzfachschaftenkonferenzen, soweit sie innerhalb der Vorlesungszeit liegen (Finanz-FKen). 
+
+(3) In der vorlesungsfreien Zeit eines jeden Semesters sollen mindestens zwei Fachschaftenkonferenzen
 stattfinden (Ferien-FKen), deren Termine vom Vorsitz des FSK vor Ende der
 Vorlesungszeit bekannt gegeben werden. 
 
-(3) Der Vorsitz des FSK beruft auf Antrag von 5 Fachschaften eine
+(4) Der Vorsitz des FSK beruft auf Antrag von 5 Fachschaften eine
 Sonderfachschaftenkonferenz (Sonder-FK) ein. Im Antrag sind die zu
 behandelnden Tagesordnungspunkte zu nennen. Der Vorsitz des FSK kann eine
 Sonder-FK zudem nach eigenem Ermessen einberufen. Eine Ladungsfrist von 48
 Stunden ist einzuhalten. Dies gilt auch für Sonder-Ferien-FKen.
 
-(4) Sitzungen finden grundsätzlich in teilweiser elektronischer Kommunikation (hybrid)
+(5) Sitzungen finden grundsätzlich in teilweiser elektronischer Kommunikation (hybrid)
 statt, können jedoch auf Beschluss der FK, aufgrund höheren Rechts
 oder höherer Gewalt nach Ermessen des Vorsitz des FSK oder anderslautenden
 Regelungen dieser Geschäftsordnung auch in Präsenz oder rein elektronischer
 Form (digital) stattfinden. Die Fachschaften sind hierüber frühzeitig zu
 informieren.
 
+### § X Behandlung von BFSG-Anträgen 
+
+(1) Im Regelfall werden BFSG-Anträge auf der ersten Finanz-FK eines Monats vorgestellt und auf der zweiten abgestimmt. In besonderen Ausnahmefällen entfällt diese Vorgabe. Darüber hinaus können auf allen Ferien-FKen sowohl Anträge vorgestellt als auch abgestimmt werden. Das FSK bringt die vollständigen Anträge zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge, die weniger als zwei Wochen vor der nächsten FK, auf welcher Anträge vorgestellt werden vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
+
+(2) Die Fachschaft, die den Antrag stellt, muss auf den FKen, auf welchen ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf der Anträge vorgestellt werden verschoben. 
 
 ### § 4 Tagesordnung
 
@@ -563,7 +570,22 @@ werden.
 
 ## III. Beschlussfassung
 
-### § 12 Beschlussfähigkeit
+### § 12 Stimmrecht
+
+(1) Stimmberechtigt sind die von einem Organ einer Fachschaft dazu
+bevollmächtigten Vertreterinnen (Delegierten). Jede Fachschaft hat bei
+Abstimmungen eine Stimme. Mitglieder des Fachschaftenkollektivs (FSK) dürfen
+nicht abstimmen. 
+
+(2) Versuchen mehrere Delegierte der gleichen FS ihre Stimme bei einer Abstimmung abzugeben, so zählen die Stimmen als eine. Versuchen mehrere Delegierte einer FS bei einer Abstimmung unterschiedlich abzustimmen, so zählen ihre Stimmen als eine Enthaltung
+
+(3) Die Delegierten der Fachschaften haben ihre Bevollmächtigung auf Verlangen
+des FSK, der Sitzungsleitung oder von mindestens drei Fachschaften
+nachzuweisen.
+
+(4) Mitglieder des FSK können nicht Delegierte einer Fachschaft sein.
+
+### § 13 Beschlussfähigkeit
 
 (1) Die FK ist beschlussfähig, wenn mindestens 20% aller Fachschaften vertreten
 sind.
@@ -578,7 +600,7 @@ festgestellt worden ist.
 Sonderfachschaftenkonferenzen Anwendung.
 
 
-### § 13 Lesungen
+### § 14 Lesungen
 
 (1) Anträge auf Beschlussfassung werden grundsätzlich in 3 Lesungen behandelt.
 
@@ -602,23 +624,6 @@ abgestimmt.
 Lesungen auf einer Sitzung zu behandeln. Ausgenommen davon sind Anträge und
 Stellungnahmen zu Finanzen, Satzungen, Ordnungen, Statuten, sowie
 Personalwahlen.
-
-
-### § 14 Stimmrecht
-
-(1) Stimmberechtigt sind die von einem Organ einer Fachschaft dazu
-bevollmächtigten Vertreterinnen (Delegierten). Jede Fachschaft hat bei
-Abstimmungen eine Stimme. Mitglieder des Fachschaftenkollektivs (FSK) dürfen
-nicht abstimmen. 
-
-(2) Versuchen mehrere Delegierte der gleichen FS ihre Stimme bei einer Abstimmung abzugeben, so zählen die Stimmen als eine. Versuchen mehrere Delegierte einer FS bei einer Abstimmung unterschiedlich abzustimmen, so zählen ihre Stimmen als eine Enthaltung
-
-(3) Die Delegierten der Fachschaften haben ihre Bevollmächtigung auf Verlangen
-des FSK, der Sitzungsleitung oder von mindestens drei Fachschaften
-nachzuweisen.
-
-(4) Mitglieder des FSK können nicht Delegierte einer Fachschaft sein.
-
 
 ### § 15 Abstimmungen
 
@@ -655,7 +660,16 @@ Präsenzsitzung verlangen. Ein Einspruch ist nicht möglich. Die folgende Sitzun
 muss, sofern äußere Umstände dies nicht verhindern, in Präsenz stattfinden.
 
 (8) Wahlen können nicht auf digitalen oder hybriden Sitzungen stattfinden, wenn
-mehr Personen kandidieren als Plätze zu besetzen sind. IV. Ordnungsmaßnahmen
+mehr Personen kandidieren als Plätze zu besetzen sind. 
+
+### § 16 Behandlung von BFSG-Anträgen 
+
+(1) Im Regelfall werden BFSG-Anträge auf der ersten Finanz-FK eines Monats vorgestellt und auf der zweiten abgestimmt. In besonderen Ausnahmefällen entfällt diese Vorgabe. Darüber hinaus können auf allen Ferien-FKen sowohl Anträge vorgestellt als auch abgestimmt werden. Das FSK bringt die vollständigen Anträge zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge, die weniger als zwei Wochen vor der nächsten FK, auf welcher Anträge vorgestellt werden vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
+
+(2) Die Fachschaft, die den Antrag stellt, muss auf den FKen, auf welchen ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf der Anträge vorgestellt werden verschoben. 
+
+
+## IV. Ordnungsmaßnahmen
 
 
 ### § 16 Sach- und Ordnungsruf
