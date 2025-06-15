@@ -256,35 +256,15 @@ Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der
 
 ### § 10 Kassenführung
 
-Zahlungen dürfen nur aufgrund schriftlicher oder elektronischer Anordnung (Kassenanordnung) geleistet werden. Einzahlungen sind stets anzunehmen. Die Anordnung ist dann nachträglich zu erteilen.
-
+Für die §§ 10-12 sind die Formulierungen noch in Ausarbeitung. Da sieht die HWVO NRW sehr viel vor, dass wenn wir es einfach copy pasten und nur rudimentär auf FSen umschreiben, wir es selbst kaum verstehen.
 
 ### § 11 Kassenanordnungen
- 
- (definier mal aufbau)
-(erklär mal so sachen wie sachliche und rechnerische RICHTiGKEIT)
- (mehr wie ne gute bedienungsanleitung schreiben)
- 
-(1) Kassenanordnungen sind von der Finanzreferentin zu unterzeichnen.
-Mit der Unterzeichnung der Kassenanordnung übernimmt die Finanzreferentin die Verantwortung dafür, 
-1. dass keine offensichtlich erkennbaren Fehler in der Kassenanordnung enthalten sind, 
-2. die sachliche und rechnerische Richtigkeit der in der Kassenanordnung enthaltenen Angaben bescheinigt worden ist (Absatz 2),
-3. der Titel richtig bezeichnet ist und 
-4. Ausgabemittel in der vorgesehenen Höhe zur Verfügung stehen.
 
-Die Kassenanordnung muss gegebenenfalls im Zusammenhang mit den ihr beigefügten Unterlagen Zweck und Anlass einer Zahlung begründen und eine Prüfung ohne Rückfragen ermöglichen.
-
-(2) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung bedürfen der Feststellung der sachlichen und rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist ein anderes Mitglied des FSR zu beauftragen.
-
+Folgt.
 
 ### § 12 Buchführung 
- (make understandable)
-(1) Über die Zahlungen ist sowohl nach der Zeitfolge (zeitlichen Chronologie) als auch nach der im Haushaltsplan vorgesehenen Ordnung (Hierarchie der Titel) Buch zu führen. Die Zahlungen sind für das Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden sind.
 
-(2) Die Kassenanordnungen sind nach Titeln getrennt fortlaufend zu nummerieren und in der Reihenfolge der Buchungen zu ordnen.
-
-(3) Ein Fehlbetrag entsteht, wenn die Gesamtsumme der Einnahmen innerhalb eines Haushaltsjahres geringer ausfällt als die Gesamtsumme der Einnahmen. Ein Fehlbetrag ist im nächsten Haushaltsjahr als Ausgabe zu buchen. Bei höheren Einnahmen als Ausgaben innerhalb eines Haushaltsjahres liegt ein Überschuss vor, dieser ist im nächsten Haushaltsjahr als Einnahme zu buchen.
-
+Folgt.
 
 ### § 13 Aufbewahrung der Finanzunterlagen
 
