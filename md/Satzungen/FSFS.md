@@ -19,23 +19,21 @@ contains:
 
 ### § 1 Regelungsinhalt
 
-(1) Diese Satzung regelt gemäß § 43 der Satzung der Studierendenschaft:
+Diese Satzung regelt gemäß § 43 der Satzung der Studierendenschaft:
 
 1. Die Grundzüge der Haushaltsführung der Fachschaften
-2. Die Verfahren zur Antragstellung für AFSG und BFSG
-3. Voraussetzungen für die Auszahlung von AFSG und BFSG
+2. Voraussetzungen für die Auszahlung von AFSG und BFSG
+3. Die Verfahren zur Antragstellung für AFSG und BFSG
 
 
 ### § 2 Fachschaftengelder
 
-(1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft (SdS) der
+(1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft der
 RFWU Bonn zugewiesenen Gelder werden durch das Fachschaftenkollektiv (FSK) verwaltet.
 
 (2) Die Gelder gliedern sich in Allgemeine
-Fachschaftengelder (AFSG) und Besondere Fachschaftengelder (BFSG).
-AFSG setzen sich zusammen aus einem Sockelbetrag und einem
-weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der
-betreffenden Fachschaft gemäß § 22 Satzung der Studierendenschaft (SdS) zugeordnet sind. Mit BFSG werden
+Fachschaftengelder (AFSG) und Besondere Fachschaftengelder (BFSG). Die AFSG dienen dem Bestreiten des allgemeinen Geschäftsbetriebs
+einer Fachschaft. Mit BFSG werden
 wichtige Fachschaftsbelange gesondert gefördert.
 
 (3) Die Gelder werden nur auf Antrag ausgezahlt. Die Prüfung der Anträge erfolgt nach den Bestimmungen dieser Satzung durch das FSK. Die Auszahlungen werden durch den Vorsitz des FSK
@@ -43,13 +41,13 @@ oder seine zeichnungsberechtigte Stellvertretung angewiesen.
 
 (4) Antragsberechtigt sind die Fachschaftsräte der RFWU Bonn.
 
-(5) Die Finanzanträge und die Dokumente einer Fachschaft sollen im FSK nicht von
+(5) Die Finanzanträge und die Dokumente einer Fachschaft dürfen im FSK nicht von
 Personen gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewiesen werden.
 
 (6) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
-(7) Die Gelder der Fachschaften sollen nicht dazu verwendet werden, Aufgaben
+(7) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden, Aufgaben
 der Verwaltung und Lehre der Universität zu finanzieren. 
 
 
@@ -63,12 +61,13 @@ der Verwaltung und Lehre der Universität zu finanzieren.
 4. nach der letzten Fachschaftswahl hat das gewählte Gremium sich ordentlich konstituiert,
 5. die Fachschaft hat eine gültige Fachschaftssatzung,
 6. die Fachschaft hat einen gültigen Haushaltsplan für ihr laufendes Haushaltsjahr,
-7. falls der letzte beschlossene Haushaltsplan auf Grund von Mängeln für ungükltig erklärt wurde, müssen diese behoben sein,
-8. die Fachschaft hatte einen gültigen Haushaltsplan für ihr letztes Haushaltsjahr,
-9. die Fachschaft hat eine korrekte Haushaltsrechnung für ihr letztes Haushaltsjahr, und
-10. das letzte Haushaltsjahr der Fachschaft ist vollständig von Kassenprüfungen abgedeckt.
+7. falls der letzte beschlossene Haushaltsplan auf Grund von Mängeln für ungültig erklärt wurde, müssen diese behoben sein,
+8. aktuell besteht keine Notwendigkeit für einen Nachtragshaushaltsplan für das aktuelle Haushaltsjahr nach § 6 Absatz 7,
+9. die Fachschaft hat einen gültigen Haushaltsplan für ihr letztes Haushaltsjahr,
+10. die Fachschaft hat eine korrekte Haushaltsrechnung für ihr letztes Haushaltsjahr, und
+11. das letzte Haushaltsjahr der Fachschaft ist vollständig von Kassenprüfungen abgedeckt.
 
-Die Punkte 8, 9 und 10 entfallen für Fachschaften, die neu gegründet wurden und 
+Die Punkte 9, 10 und 11 entfallen für Fachschaften, die neu gegründet wurden und 
 deshalb kein letztes Haushaltsjahr hatten.
 
 Die Erfüllung dieser Voraussetzungen wird als „Auszahlungsfähigkeit“ bezeichnet.
@@ -83,9 +82,10 @@ zu 4. das Protokoll der konstituierenden Sitzung des Gremiums,
 zu 5. die auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Fachschaftssatzung,  
 zu 6. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,  
 zu 7. (die entsprechende Information liegt dem FSK vor), 
-zu 8. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,  
-zu 9. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und  
-zu 10. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
+zu 8. (die entsprechende Information liegt dem FSK vor),
+zu 9. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,  
+zu 10. die Haushaltsrechnung und  
+zu 11. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
 
 (3) Das FSK kann beschließen, Gelder an eine Fachschaft anzuweisen, die die
 Voraussetzungen nach Absatz 1 nicht erfüllt, wenn
@@ -98,8 +98,6 @@ weniger als 0 € beträgt.
 
 Die FK ist über die Entscheidung des FSK zu informieren und kann die
 Maßnahme verweigern.
-
-Abweichend von Nr. 1 kann die FK beschließen, dass das FSK Gelder an eine Fachschaft anweisen kann, wenn Nr. 2 erfüllt ist und die Fachschaft die nicht erfüllten Vorraussetzungen nicht zumutbar innerhalb der nächsten 2 Monate heilen kann. 
 
 Die Anweisung soll in diesen Fällen nur in dem Umfang erfolgen, der notwendig ist um eine besondere Härte nach Nr. 2 innerhalb des laufenden Haushaltsjahres abzuwenden.
 
@@ -126,14 +124,14 @@ halten. Die Erinnerung soll wenige Wochen nach Beginn jedes Semesters erfolgen.
 
 (5) Anträge auf AFSG sind über die Plattform zu stellen. 
 
-(6) Dokumente und Nachweise gemäß §3 Absatz 2 und §17 Absatz 3 sind per E-Mail an das FSK
+(6) Dokumente und Nachweise gemäß § 3 Absatz 2 und § 17 Absatz 3 sind per E-Mail an das FSK
 einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im
 Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs
 über die Plattform eingereicht werden.
 
 (7) Anträge auf BFSG und zugehörige Dokumente sowie Vorankündigungen und zugehörige Dokumente sind per E-Mail einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden.
 
-(8) Der Zugriff auf die Plattform soll über personengebundene Accounts erfolgen.
+(8) Der Zugriff auf die Plattform erfolgt grundsätzlich über personengebundene Accounts.
 
 (9) Es existieren verschiedene Berechtigungen, die auf der Plattform dargestellt sind.
 Die Fachschaften verwalten die Berechtigungen für ihre Fachschaft in der Regel
@@ -149,7 +147,7 @@ originärer Aufgaben verarbeitet.
 (11) Die Fachschaften sind selbst dafür verantwortlich die Berechtigungen für ihre Fachschaft regelmäßig zu überprüfen und gegebenenfalls anzupassen. Das FSK soll die Fachschaften regelmäßig daran erinnern, die Berechtigungen für ihre Fachschaft zu überprüfen und gegebenenfalls anzupassen. Diese Erinnerung soll wenige Wochen nach Beginn jedes Semesters erfolgen.
 
 (12) Das FSK kann die Nutzung der Plattform aus technischen oder organisatorischen
-Gründen für einzelne Fachschaften oder generell aussetzen. Falls hierdurch Fristen
+Gründen für einzelne Fachschaften oder generell aussetzen. Die Antragstellung und die Einreichung von Dokumenten erfolgt in diesem Fall übergangsweise per E-Mail. Falls hierdurch Fristen
 nicht eingehalten werden können, sollen angemessene Nachfristen gesetzt werden.
 
 (13) Technische Probleme der Plattform gehen nicht zulasten der Fachschaften. Die
@@ -161,12 +159,12 @@ nachzuweisen.
 
 ### § 5 Haushaltsjahr
 
-(1) Das Haushaltsjahr einer Fachschaft dauert genau ein Kalenderjahr.
+(1) Das Haushaltsjahr einer Fachschaft dauert genau ein Jahr.
 
 (2) Beginn und Ende des Haushaltsjahres einer Fachschaft werden in ihrer Fachschaftssatzung festgelegt.
 Es soll entweder der Zeitraum "1. April eines Jahres bis 31. März des Folgejahres" oder der Zeitraum "1. Oktober eines Jahres bis 30. September des Folgejahres" festgelegt werden.
 
-(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer und Zeitraum in einer Übergangsbestimmung festzuhalten sind.
+(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer und Zeitraum in einer Übergangsbestimmung in der Fachschaftssatzung festzuhalten sind.
 
 
 ### § 6 Haushaltsplan
@@ -212,20 +210,22 @@ Der Betrag eines Obertitels ist die Summe der Beträge seiner Untertitel.
 Als Entnahme aus der Rücklage ist derselbe Betrag vorzusehen, welcher im vorherigen Haushaltsjahr als Zuführung in die Rücklage vorgesehen ist.
 Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind bei Aufstellung des Haushaltsplans sorgfältig zu schätzen.
 
-(5) Der deklarative Teil des Haushaltsplans besteht aus den in Absatz 3 aufgeführten Punkten 3, 6a, 6b, 6c, 7a, 7b und 7c.
+(6) Der deklarative Teil des Haushaltsplans besteht aus den in Absatz 3 aufgeführten Punkten 3, 6a, 6b, 6c, 7a, 7b und 7c.
 Die übrigen Bestandteile sind informativer Natur.
 Änderungen und Korrekturen am deklarativen Teil eines Haushaltsplans bedürfen eines Nachtragshaushaltsplans.
 Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshaushaltsplan korrigiert werden.
 Änderungen und Korrekturen am informativen Teil eines Haushaltsplans können redaktionell erfolgen.
 
-(6) Ein Haushaltsplan ist gültig, wenn er die in den Absätzen 1 bis 5 festgelegten Anforderungen erfüllt. Andernfalls ist er ungültig.
+(7) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 5 %, mindestens aber 100 € vom im Haushaltsplan veranschlagten Betrag des Überschusses bzw. Fehlbetrags ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
 
-(7) Die Ungültigkeit eines Haushaltsplans wird vom FSK festgestellt und der betreffenden Fachschaft unter Nennung der zu behebenden Mängel mitgeteilt. Der FSR-Vorsitz hat den Beschluss eines ungültigen Haushaltsplans oder Nachtragshaushaltsplans, welcher nicht redaktionell korrigiert werden kann zu beanstanden und vom beschlussfassenden Gremium unverzügliche Abhilfe zu verlangen. Eine solche Beanstandung hat aufschiebende Wirkung. Solange das beschlussfassende Gremium der Abhilfe nicht nachgekommen ist, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden. Existiert kein solcher, ist die volöufige Haushaltsführung anzuwenden. 
+(8) Ein Haushaltsplan ist gültig, wenn er die in den Absätzen 1 bis 5 festgelegten Anforderungen erfüllt. Andernfalls ist er ungültig. 
+
+(9) Die Ungültigkeit eines Haushaltsplans wird vom FSK festgestellt und der betreffenden Fachschaft unter Nennung der zu behebenden Mängel mitgeteilt. Der FSR-Vorsitz hat den Beschluss eines ungültigen Haushaltsplans oder Nachtragshaushaltsplans, welcher nicht redaktionell korrigiert werden kann zu beanstanden und vom beschlussfassenden Gremium unverzügliche Abhilfe zu verlangen. Eine solche Beanstandung hat aufschiebende Wirkung. Solange das beschlussfassende Gremium der Abhilfe nicht nachgekommen ist, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden. Existiert kein solcher, ist die vorläufige Haushaltsführung anzuwenden. 
 
 
 ### § 7 Vorläufige Haushaltsführung
 
-(1) Grundlage für die Haushaltsführung vor Inkrafttreten des Haushaltsplans (vorläufige Haushaltsführung) ist der letzte gültige Haushaltsplan des Vorjahres; von jenen Beträgen darf für jeden Monat der vorläufigen Haushaltsführung ein Zwölftel in Anspruch genommen werden. (was passiert if there is none, ist das wirklich sinnvoll im Hinblick auf Ersti Wochen?, also ich weiß das vorläufige Haushaltsführung so funktioniert aber glauben wir dass das praxistauglich ist/können wir das irgendwie fixen)
+(1) Grundlage für die Haushaltsführung vor Inkrafttreten des Haushaltsplans (vorläufige Haushaltsführung) ist der letzte gültige Haushaltsplan des Vorjahres; von jenen Beträgen darf für jeden Monat der vorläufigen Haushaltsführung ein Zwölftel in Anspruch genommen werden.
 
 (2) Sieht der Entwurf des Haushaltsplans der Finanzreferentin niedrigere Beträge gegenüber den Beträgen des Vorjahres vor, so ist bei der vorläufigen Haushaltsführung von diesen auszugehen.
 
@@ -238,9 +238,7 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 (3) Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind mit den tatsächlichen Beträgen festzulegen, sofern das vorherige Haushaltsjahr bereits geendet hat.
 
-(4) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 5% des Ansatzes des Überschusses bzw. Fehlbetrag, mindestens aber 100 € vom im Haushaltsplan veranschlagten Betrag ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
-
-(5) Für einen Nachtragshaushaltsplan gelten alle Regeln, die auch für den Haushaltsplan gelten, mit folgenden Abweichungen:
+(4) Für einen Nachtragshaushaltsplan gelten alle Regeln, die auch für den Haushaltsplan gelten, mit folgenden Abweichungen:
 
 1. Das Dokument wird als 1. Nachtragshaushaltsplan betitelt. Weitere Nachtragshaushaltspläne werden als 2. Nachtragshaushaltsplan, 3. Nachtragshaushaltsplan usw. betitelt.
 2. Die Einnahmen- und Ausgabenseite enthalten jeweils Spalten für:
@@ -253,10 +251,20 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 ### § 9 Finanzreferentin
 
-Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben verantwortlich (Finanzreferentin).
+Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der Fachschaft verantwortlich (Finanzreferentin).
 
-### § 10 Kassenanordnungen
 
+### § 10 Kassenführung
+
+Zahlungen dürfen nur aufgrund schriftlicher oder elektronischer Anordnung (Kassenanordnung) geleistet werden. Einzahlungen sind stets anzunehmen. Die Anordnung ist dann nachträglich zu erteilen.
+
+
+### § 11 Kassenanordnungen
+ 
+ (definier mal aufbau)
+(erklär mal so sachen wie sachliche und rechnerische RICHTiGKEIT)
+ (mehr wie ne gute bedienungsanleitung schreiben)
+ 
 (1) Kassenanordnungen sind von der Finanzreferentin zu unterzeichnen.
 Mit der Unterzeichnung der Kassenanordnung übernimmt die Finanzreferentin die Verantwortung dafür, 
 1. dass keine offensichtlich erkennbaren Fehler in der Kassenanordnung enthalten sind, 
@@ -268,21 +276,20 @@ Die Kassenanordnung muss gegebenenfalls im Zusammenhang mit den ihr beigefügten
 
 (2) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung bedürfen der Feststellung der sachlichen und rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist ein anderes Mitglied des FSR zu beauftragen.
 
-### § 11 Kassenführung
 
-Zahlungen dürfen nur aufgrund schriftlicher oder elektronischer Anordnung (Kassenanordnung) geleistet werden. Einzahlungen sind stets anzunehmen. Die Anordnung ist dann nachträglich zu erteilen.
-
-### § 12 Buchführung und Gegenstandsverzeichnis
-
+### § 12 Buchführung 
+ (make understandable)
 (1) Über die Zahlungen ist sowohl nach der Zeitfolge (zeitlichen Chronologie) als auch nach der im Haushaltsplan vorgesehenen Ordnung (Hierarchie der Titel) Buch zu führen. Die Zahlungen sind für das Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden sind.
 
 (2) Die Kassenanordnungen sind nach Titeln getrennt fortlaufend zu nummerieren und in der Reihenfolge der Buchungen zu ordnen.
 
-(3) Ein Fehlbetrag im nächsten Haushaltsjahr als Ausgabe nachzuweisen. Ein Fehlbetrag entsteht, wenn die Gesamtsumme der Einnahmen innerhalb eines Haushaltsjahres geringer ausfällt als die Gesamtsumme der Einnahmen. Bei höheren Einnahmen als Ausgaben innerhalb eines Haushaltsjahres liegt ein Überschuss vor, dieser ist im nächsten Haushaltsjahr als Einnahme zu buchen.
+(3) Ein Fehlbetrag entsteht, wenn die Gesamtsumme der Einnahmen innerhalb eines Haushaltsjahres geringer ausfällt als die Gesamtsumme der Einnahmen. Ein Fehlbetrag ist im nächsten Haushaltsjahr als Ausgabe zu buchen. Bei höheren Einnahmen als Ausgaben innerhalb eines Haushaltsjahres liegt ein Überschuss vor, dieser ist im nächsten Haushaltsjahr als Einnahme zu buchen.
 
-### § 13 Aufbewahrung der Bücher
 
-Die Bücher eines Haushaltsjahres sind nach Ablauf des 31. Dezembers des Kalenderjahres in denen das Haushaltsjahr endete weitere 10 Jahre aufzubewahren. 
+### § 13 Aufbewahrung der Finanzunterlagen
+
+Die Finanzunterlagen eines Haushaltsjahres sind nach Ablauf des 31. Dezembers des Kalenderjahres in denen das Haushaltsjahr endete weitere 10 Jahre aufzubewahren. 
+
 
 ### § 14 Buchung von Rücklage, Überschuss und Fehlbetrag
 
@@ -311,8 +318,9 @@ Sie wird von der Finanzreferentin erstellt.
     b) Bezeichnung des Haushaltstitels
     c) Betrag des Titels im zugehörigen Haushaltsplan
     d) tatsächlicher Betrag des Titels im Haushaltsjahr
-8. Alle Haushaltsvermerke des zugehörigen Haushaltsplans
-9. die Kassenstände aller Konten und Kassen der Fachschaft zu Beginn und Ende des Haushaltsjahres
+6. Alle Haushaltsvermerke des zugehörigen Haushaltsplans
+7. die Kassenstände aller Konten und Kassen der Fachschaft zu Beginn und Ende des Haushaltsjahres
+8. eine Auflistung der Rücklage und des Überschusses beziehungsweise Fehlbetrags zu Beginn und Ende des Haushaltsjahres
 
 
 ### § 16 Kassenprüfung
@@ -335,26 +343,25 @@ Kassenprüfende müssen Teil der Studierendenschaft der RFWU Bonn sein.
 (3) Über die Kassenprüfung wird ein Bericht erstellt, der mindestens Folgendes enthält:
 
 1. Liste der Anwesenden mit Angabe ihrer Funktion
-2. Ort der Prüfung
-3. Datum der Prüfung
-4. Geprüfter Zeitraum
-5. Kassenstände aller Konten und Kassen zu Beginn des ersten Tags des geprüften Zeitraums
-6. Kassenstände aller Konten und Kassen zu Ende des letzten Tags des geprüften Zeitraums
-7. Prüfbericht mit Angabe der geprüften Objekte und ggf. von festgestellten Auffälligkeiten
-8. Entlastungsempfehlung
+2. Datum der Wahl der Kassenprüfenden
+3. Ort der Prüfung
+4. Datum der Prüfung
+5. Geprüfter Zeitraum
+6. Kassenstände aller Konten und Kassen zu Beginn des ersten Tags des geprüften Zeitraums
+7. Kassenstände aller Konten und Kassen zu Ende des letzten Tags des geprüften Zeitraums
+8. Prüfbericht mit Angabe der geprüften Objekte und ggf. von festgestellten Auffälligkeiten
+9. Entlastungsempfehlung
 
-Dem Bericht ist eine Auflistung der Mitglieder des FSR und des FSV-Vorstands während des Prüfungszeitraums und/oder zum
-Prüfungszeitpunkt beizufügen.
-
-(4) Was passiert wenn die KPs nicht arbeiten können, müssen bestimmte Dokumente mindestens bereitgestellt werden?
+Dem Bericht ist eine Auflistung der Mitglieder des FSR während des Prüfungszeitraums und/oder zum Prüfungszeitpunkt beizufügen.
 
 
 # Abschnitt 3 - Allgemeine Fachschaftengelder (AFSG)
 
 ### § 17 AFSG
 
-(1) Die AFSG dienen dem Bestreiten des allgemeinen Geschäftsbetriebs
-einer Fachschaft.
+(1) Die AFSG für eine Fachschaft setzen sich zusammen aus einem Sockelbetrag und einem
+weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der
+betreffenden Fachschaft gemäß § 22 Satzung der Studierendenschaft zugeordnet sind.
 
 (2) AFSG werden rückwirkend für die letzten Semester ausgezahlt.
 Der Antrag kann frühestens für das aktuell laufende Semester
@@ -366,7 +373,7 @@ Dokumente vorliegen:
 
 1. die (Nachtrags-)Haushaltspläne, deren Gültigkeitszeiträume das Semester abdecken,
 2. die Protokolle der Sitzungen, auf denen diese Haushaltspläne beschlossen wurden,
-3. die Haushaltsrechnungen für diese Haushaltspläne, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführen,
+3. die Haushaltsrechnungen für diese Haushaltspläne, 
 4. die Kassenprüfungsberichte, die das Semester abdecken,
 5. die Protokolle der Sitzungen, auf denen die betreffenden Kassenprüfungsausschüsse gewählt wurden,
 6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
@@ -374,7 +381,7 @@ Dokumente vorliegen:
 
 (4) Sind die Voraussetzungen nach Absatz 3 erfüllt, ist der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
-Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
+Auszahlung der Gelder, so werden die Gelder vom Vorsitz des FSK
 oder seiner zeichnungsberechtigten Stellvertretung angewiesen.
 
 (5) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
@@ -404,10 +411,12 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 
 (3) Stichtag für die Berechnung der AFSG-Verteilung ist für Sommersemester der 15. Mai und für Wintersemester der 15. November.
 
+(4) Für die Studierendenzahl gilt die Auskunft der Universitätsverwaltung für das betreffende Semester.
+
 
 ### § 19 Reservierung der AFSG
 
-(1) Nach Verstreichen der Antragsfrist nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
+(1) Nach Verstreichen der Antragsfrist nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss im Verwahrhaushalt der Fachschaften zu berücksichtigen.
 
 (2) Beantragte AFSG sind zu reservieren, bis sie vervollständigt sind oder die Vervollständigungsfrist verstrichen ist.
 
@@ -416,8 +425,8 @@ ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fac
 
 (4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden oder die Auszahlungsfrist nach § 17 Absatz 6 verstrichen ist. 
 
-(5) Der Betrag von AFSG-Anträgen, die nach Ablauf der Auszahlungsfrist nach § 17 Absatz 6 nicht ausgezahlt wurden und somit als nicht gestellt gelten,
-ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
+(5) Der Betrag von AFSG-Anträgen, die nach Ablauf der Auszahlungsfrist nach § 17 Absatz 6 nicht ausgezahlt wurden und somit als nicht gestellt gelten, ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
+
 
 # Abschnitt 4 - Besondere Fachschaftengelder (BFSG)
 
@@ -446,7 +455,7 @@ vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt 
 ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist
 von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine
 Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf 
-der Anträge vorgestellt werden verschoben.
+der Anträge vorgestellt werden verschoben. (Absatz 3 und 4 in FKGO TODO Luc)
 
 (5) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
@@ -458,7 +467,7 @@ Antragssumme nicht in voller Höhe zugestimmt wurde.
 
 (7) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
 vorgestellt werden konnten, gelten als nicht gestellt und müssen neu beantragt werden.
-Angenommene Anträge verfallen mit Abschluss des sechten Semesters nach dem Semester für welches der Antrag gestellt wurde, sofern sie aufgrund
+Angenommene Anträge verfallen mit Abschluss des sechsten Semesters nach dem Semester für welches der Antrag gestellt wurde, sofern sie aufgrund
 inkorrekter Angaben oder mangels Auszahlungsfähigkeit nicht ausgezahlt werden
 konnten.
 
@@ -474,8 +483,7 @@ Fachschaft nicht eingehalten, so ist auf Antrag dieser Fachschaft die
 Wiedereinsetzung in den vorigen Stand zu gewähren. Der Antrag auf
 Wiedereinsetzung eines BFSG-Antrags ist innerhalb eines Monats nach Wegfall
 des Hindernisses zu stellen. Die Tatsachen zur Begründung des Antrags auf
-Wiedereinsetzung sind mit dem Antrag einzureichen. Über einen Antrag auf
-Wiedereinsetzung entscheidet die FK auf den nächstmöglichen Sitzungen. Die Behandlung eines solchen Antrags soll auch auf FKen erfolgen, welche nicht Finanz-FKen sind.
+Wiedereinsetzung sind mit dem Antrag einzureichen. 
 
 (10) Wird ein BFSG-Antrag abgestimmt, welcher einen Maximalbetrag nach der
 Anlage 1 zur FKGO übersteigt, ohne, dass eine Vorankündigung diesbezüglich
@@ -483,9 +491,9 @@ vorliegt, gilt dieser Antrag als nur in Höhe des Maximalbetrags bewilligt.
 
 (11) Wurde ein BFSG-Antrag abgestimmt, bei welchem die
 Einnahmen inklusive der BFSG die Ausgaben für den BFSG-Antrag
-übersteigen, so soll das FSK diesen Antrag auf den Betrag kürzen, ab dem
-sich die Einnahmen mit den Ausgaben decken. Dies ist auch im Nachhinein mölich und kann insbesondere dann erfolgen, wenn sich nach der Abstimmung noch Änderungen diesbezüglich ergeben. Es hat die betroffene Fachschaft
-hiervon in Kenntnis zu setzen. (Will man ermöglichen dass man Anträge grundsätzlich höher abstimmen kann, wenn man z.B. noch förderer hat die (noch) nicht gezahlt haben?)
+übersteigen, so kürzt das FSK diesen Antrag auf den Betrag, ab dem
+sich die Einnahmen mit den Ausgaben decken. Dies ist auch im Nachhinein möglich und soll insbesondere dann erfolgen, wenn sich nach der Abstimmung noch Änderungen diesbezüglich ergeben. Es hat die betroffene Fachschaft
+hiervon in Kenntnis zu setzen.
 
 (12) Wurde ein BFSG-Antrag unter der Annahme abgestimmt, dass er vollständig
 sei und stellt sich erst im Nachhinein heraus, dass Unterlagen fehlerhaft waren
@@ -503,7 +511,7 @@ Anschaffungen beantragen. In diesen Fällen muss die FK die Anträge vor Beginn
 der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
 nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
 abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
-Raumes bedürfen abweichend von § 23 Absatz 1 keiner Vorankündigung. § 22 Absätze 8 bis 9 gelten nicht. Wenn die Rechnungen/Verbindlichkeiten nicht direkt durch das FSK beglichen werden können, kann eine Auszahlung nach Vorlage der entsprechenden Belege auch an ein in Vorleistung gegangenes Mitglied des FSKs erfolgen.
+Raumes bedürfen abweichend von § 23 Absatz 1 keiner Vorankündigung. § 22 Absätze 7 bis 8 gelten nicht. Wenn die Rechnungen/Verbindlichkeiten nicht direkt durch das FSK beglichen werden können, kann eine Auszahlung nach Vorlage der entsprechenden Belege auch an ein in Vorleistung gegangenes Mitglied des FSKs erfolgen. Die Auszahlung erfolgt lediglich in Höhe in der die Ausgaben auch tatsächlich erfolgt sind.
 
 (2) Mindestens zwei Fachschaften können auf der FK ebenfalls BFSG für
 fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
@@ -534,11 +542,10 @@ Angebotsabgabe aufzufordern. Der Preisvergleich ist aktenkundig zu machen und
 die Vergabeentscheidung zu dokumentieren. (vgl. § 2 Absatz 2 Haushalts- und
 Wirtschaftsführungs-Verordnung der Studierendenschaften NRW)
 
-(6) Fahrtkosten werden nur erstattet, wenn eine Mehrbelastung gegenüber einer
-Nutzung des Deutschlandsemestertickets vorliegt. Diese muss begründet werden.
+(6) Fahrtkosten werden nur erstattet, wenn ein nennenswerter Vorteil gegenüber einer
+Nutzung des Deutschlandsemestertickets vorliegt. Dieser muss begründet werden.
 Dies ist insbesondere dann der Fall, wenn Verpflegung oder sonstige Güter
-transportiert werden müssen, wenn mit dem Deutschlandsemesterticket eine
-Verspätung von mindestens einer Stunde relativ zu der gewählten Fahrt bestünde
+transportiert werden müssen, wenn die Fahrtzeit mit dem Deutschlandsemesterticket mindestens eine Stunde höher wäre
 oder die Reisedauer drei Stunden überschreitet. In diesem Fall werden erstattet:
 
 1. Bei einer Bahnfahrt die tatsächlich entstandenen Kosten einer Fahrt in der 2.
@@ -572,17 +579,11 @@ zu Fragen der nachhaltigen Reisegestaltung.
 Bei der Planung einer Reise sind die Prinzipien der Wirtschaftlichkeit und
 Sparsamkeit zu beachten.
 
-(7) Sagt ein nicht unwesentlicher Teil der angemeldeten und finanziell
-eingeplanten Studierenden bei Veranstaltungen, Fahrten oder Exkursionen
-kurzfristig ab, so kann die FK auf Antrag der betreffenden Fachschaft auch in Ermangelung einer Vorankündigung
-beschließen, dass dennoch die eingeplanten Höchstbeträge für eine höhere
-Teilnehmerzahl zugrunde gelegt werden.
-
-(8) Verpflegung kann nur im Rahmen der Erstsemesterarbeit nach 2 a. sowie der
+(7) Verpflegung kann nur im Rahmen der Erstsemesterarbeit nach 2 a. sowie der
 Ausrichtung von Fachschaftentagungen nach 5 i. des Kriterienkatalogs (KritKat)
 gefördert werden.
 
-(9) Alkoholische Getränke werden generell nicht erstattet.
+(8) Alkoholische Getränke werden generell nicht erstattet.
 
 
 
@@ -592,7 +593,7 @@ gefördert werden.
 abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
 Raumes müssen vor Beginn der Maßnahme vorangekündigt werden. Beschließt
 die FK die Annahme der Vorankündigung, so kann die Fachschaft bei einem
-späteren Antrag auf Zubilligung Besonderer Fachschaftengelder in dem durch die
+späteren Antrag auf BFSG in dem durch die
 Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
 Vorgaben zu einzureichenden Dokumenten sind hiervon ausgenommen.
 
@@ -631,8 +632,15 @@ Antrag genutzt werden. Vorankündigungen können nur für Veranstaltungen oder
 Anschaffungen genutzt werden, die in dem Semester erfolgen, auf das sich die
 Vorankündigung bezieht.
 
-(9) Das Erstatten alkoholischer Verpflegung ist auch durch Vorankündigungen
+(9) Sagt ein nicht unwesentlicher Teil der angemeldeten und finanziell
+eingeplanten Studierenden bei Veranstaltungen, Fahrten oder Exkursionen
+kurzfristig ab, so kann die FK auf Antrag der betreffenden Fachschaft auch in Ermangelung einer Vorankündigung
+beschließen, dass dennoch die eingeplanten Höchstbeträge für eine höhere
+Teilnehmerzahl zugrunde gelegt werden.
+
+(10) Das Erstatten alkoholischer Verpflegung ist auch durch Vorankündigungen
 nicht möglich.
+
 
 
 ### § 24 Kaution für Veranstaltungen
@@ -655,16 +663,20 @@ Fachschaftengeldern (BFSG) aufgerechnet werden.
 
 ### § 25 Übergangsbestimmungen
 
-(1) Sofern nichts anderes bestimmt wird, sind Änderungen der Regelungen in § XXX (pls define @Sven) und in Anlage 1 stets erst auf Anträge anzuwenden, die für Semester gestellt werden, welche nach dem Semester liegen, in dem die Änderungen bekannt gemacht werden.
+(1) Sofern nichts anderes bestimmt wird, sind Änderungen der Regelungen in § 22 und in Anlage 1 stets erst auf Anträge anzuwenden, die für Semester gestellt werden, welche nach dem Semester liegen, in dem die Änderungen bekannt gemacht werden.
 
-(2) Fachschaften, denen in den Semestern vor dem Sommersemester 2023
+(2) Fachschaften, denen für Semester vor dem Wintersemester 2022/23
 bewilligte Besondere Fachschaftengelder (BFSG) noch nicht ausgezahlt wurden,
-können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2026
-erwirken, sofern sie auszahlungsfähig sind.
+können die Auszahlung dieser Gelder bis Ende des Wintersemesters 2025/26
+erwirken, sofern sie auszahlungsfähig sind und die Gelder nicht bereits verfallen sind.
 
 (3) Fachschaften, denen vollständige Anträge auf Allgemeine Fachschaftengelder (AFSG) die Semester vor dem Wintersemester 2022/23 betreffen noch nicht ausgezahlt wurden,
 können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2026
 erwirken, sofern sie auszahlungsfähig sind.
+
+(4) Für die Auszahlungsfähigkeit nach § 3 und die Vollständigkeit von AFSG-Anträgen nach § 17 sind die Vorgaben der §§ 6, 8 und 15 erst auf Dokumente anzuwenden die für Haushaltsjahre gelten, welche frühestens am 1. Oktober 2025 beginnen. Sofern diese nicht erfüllt sind, gelten die bisherigen Regelungen.
+
+(5) Für die Auszahlungsfähigkeit nach § 3 und die Vollständigkeit von AFSG-Anträgen nach § 17 sind die Vorgaben des § 16 erst auf Kassenprüfungen anzuwenden die frühestens am 1. Oktober 2025 stattfinden. Sofern diese nicht erfüllt sind, gelten die bisherigen Regelungen.
 
 
 ### § 26 Inkrafttreten
@@ -682,7 +694,7 @@ Wintersemester (1. Oktober) und endet mit dem Sommersemester (30. September).
 (2) Die Semester erstrecken sich sowohl über die Vorlesungszeit als auch über die
 darauffolgende vorlesungsfreie Zeit.
 
-(3) Anträge sollen mit den vom Fachschaftenkollektiv bereitgestellten, vollständig
+(3) Anträge müssen mit den vom Fachschaftenkollektiv bereitgestellten, vollständig
 ausgefüllten Antragsformularen eingereicht werden, solange die Plattform nach § 4 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden.
 
 (4) Allgemeine Anschaffungen, die der Fachschaft erwartungsgemäß über den
@@ -690,20 +702,19 @@ Rahmen einzelner Veranstaltungen hinaus zur Verfügung stehen, wie z.B.
 Mikrofone, Audioboxen und Banner, sind über den Posten Sachmittel zu
 beantragen. Fachschaftskleidung ist hiervon ausgenommen.
 
-(5) Allen Anträgen sollen die folgenden Dokumente beigefügt werden:
+(5) Allen Anträgen müssen die folgenden Dokumente beigefügt werden:
 
 1. Tabellarische Kostenkalkulation mit allen Einnahmen und Ausgaben im
 Zusammenhang mit der Maßnahme.
 2. Kopien aller Rechnungen. Besteht kein Anspruch auf eine Rechnung ist ein
 angemessener Nachweis zu erbringen.
 3. Ein Arbeitsbericht in dem die Hintergründe und der Ablauf der Maßnahme
-beschrieben werden. Dieser muss, wo nicht Gegenteiliges festgelegt ist, einen
-Awarenessbericht enthalten.
-4. Ein Awarenessbericht der erläutern muss, ob es ein
+beschrieben werden. 
+4. Für Anträge wo nicht geteiliges festgelegt ist: Ein Awarenessbericht der erläutern muss, ob es ein
 Awarenesskonzept gab, wenn es eines gab, wie es ausgesehen hat, und, ob es
 Vorfälle gab. Bei der Teilnahme an einer Fachschaftentagung (z.B. BuFaTa)
 gemäß 3. e sollen die Awareness-Maßnahmen der Fachschaftentagung geschildert
-werden.
+werden. 
 5. Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsbericht muss dokumentieren,
 welche Nachhaltigkeits-Maßnahmen getroffen wurden. Bei der Teilnahme an
 einer Fachschaftentagung (z.B. BuFaTa) gemäß 3. e sollen die Nachhaltigkeits-
@@ -792,8 +803,7 @@ RFWU Bonn eingeschrieben sind.
 
 ##### 3.1.2 Klausurfahrten
 
-1. Fahrt vorrangig für aktive Fachschaftsmitglieder, um gezielt an fachschaftsbezogenen
-Themen zu arbeiten. Der Anteil der von Personen die nicht aktive Fachschaftsmitglieder sind soll 20 % nicht überschreiten, sofern dies mehr als 3 Teilnehmende sind. Die Berücksichtigung von Personen, die nicht gewähltes Mitglied von FSV oder FSR sind oder innerhalb der letzen 8 Monate waren, als aktive Fachschaftsmitglieder ist zu begründen. Hierzu sind die entsprechenden Ämter oder Begründungen in die Teilnehmendenliste mitaufzunehmen oder in einem separaten Dokument aufzulisten.
+1. Fahrt für Mitglieder der Fachschaft, welche sich aktiv in die Fachschaftsarbeit einbringen (aktive Fachschaftsmitglieder), um gezielt an fachschaftsbezogenen Themen zu arbeiten. 
 2. Klausurfahrten sollen regional im Umkreis zu Bonn stattfinden. (< 100 km
 Entfernung). Beträchtlich weitere Fahrten (> 120 km) müssen begründet werden.
 Die Entfernung ergibt sich aus der Luftlinie zwischen dem Hauptgebäude der
@@ -862,7 +872,7 @@ eine Stellungnahme nachzureichen.
 ##### 5.1.2 Ausrichtung Fachschaftentagung
 
 1. Ausrichtung sowie Vor- und Nachbereitung von landes-, bundes-, europa-
-oder weltweiten Fachschaftsversammlungen in Bonn.
+oder weltweiten Fachschaftentagungen in Bonn.
 2. Alkohol wird nicht erstattet.
 3. Es ist ein Awarenesskonzept zu erarbeiten und allen teilnehmenden
 Fachschaften bekannt zu machen.
