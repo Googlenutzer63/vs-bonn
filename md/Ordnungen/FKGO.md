@@ -672,7 +672,7 @@ mehr Personen kandidieren als Plätze zu besetzen sind.
 ## IV. Ordnungsmaßnahmen
 
 
-### § 16 Sach- und Ordnungsruf
+### § 17 Sach- und Ordnungsruf
 
 (1) Die Sitzungsleitung kann eine Rednerin, die vom Verhandlungsgegenstand
 abweicht, zur Sache verweisen (Sachruf). Sie kann Anwesende, wenn sie die
@@ -687,21 +687,21 @@ unverzüglich Einspruch einlegen.
 sie gegen den Sach- oder Ordnungsruf, so gilt er als nicht geäußert.
 
 
-### § 17 Wortentziehung
+### § 18 Wortentziehung
 
 Ist eine Rednerin während einer Rede dreimal zur Sache gerufen und beim
 zweiten Mal auf die Folgen eines dritten Rufes hingewiesen worden, so entzieht
 die Sitzungsleitung ihr das Wort.
 
 
-### § 18 Ausschluss von der Sitzung
+### § 19 Ausschluss von der Sitzung
 
 Ist eine Person während einer Sitzung dreimal zur Ordnung gerufen und beim
 zweiten Mal auf die Folgen eines dritten Rufes hingewiesen worden, so schließt
 die Sitzungsleitung sie von der Sitzung aus.
 
 
-### § 19 Unterbrechung der Sitzung
+### § 20 Unterbrechung der Sitzung
 
 Wenn im Sitzungsraum störende Unruhe entsteht, die den Fortgang der
 Verhandlungen in Frage stellt, kann die Sitzungsleitung die Sitzung auf
@@ -711,7 +711,7 @@ Sitzungsleitung nach eigenem Ermessen.
 
 ## V. Das Fachschaftenkollektiv
 
-### § 20 Das Fachschaftenkollektiv
+### § 21 Das Fachschaftenkollektiv
 
 (1) Das Fachschaftenkollektiv (FSK) ist ausführendes Organ der FK. Es besteht
 aus einem Vorsitz und mindestens 3 weiteren Mitgliedern.
@@ -737,7 +737,7 @@ des Referats. Für die Besetzung ist die Wahl des FSK maßgeblich.
 sein.
 
 
-### § 21 Wahl des Vorsitzes und der weiteren Mitglieder des FSK
+### § 22 Wahl des Vorsitzes und der weiteren Mitglieder des FSK
 
 (1) Der Vorsitz und die weiteren Mitglieder des Fachschaftenkollektivs (FSK)
 werden zu Beginn des Wintersemesters mit einfacher Mehrheit für ein Jahr
@@ -768,7 +768,7 @@ oder einem weiteren Amt innerhalb des AStA.
 Mitgliedschaft in einem FSV-Präsidium, der Mitgliedschaft in einem FSR-
 Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
-### § 21a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
+### § 22a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
 
 (1) In besonderen Ausnahmefällen kann die FK zwei Personen zu gleichberechtigten Vorsitzenden des FSK wählen. Sie dürfen nicht einer gleichen Fachschaft angehören.
 
@@ -779,7 +779,7 @@ Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
 (4) Für Unterlassungen sind beide Vorsitzende gleichermaßen verantwortlich, sofern nicht in gegenseitigem Einvernehmen eine schriftliche Übertragung der Verantwortung auf eine der Vorsitzenden erfolgt ist.
 
-### § 22 Aufgaben des FSK
+### § 23 Aufgaben des FSK
 
 (1) Die Aufgaben des Fachschaftenkollektivs (FSK) sind:
 
@@ -850,7 +850,7 @@ Fachschaft die Pflicht, das Rektorat unverzüglich zu informieren.
 
 ## VI. Weitere Gremien
 
-### § 23 Ausschüsse
+### § 24 Ausschüsse
 
 (1) Es gibt zwei ständige Ausschüsse der FK. Sie kann darüber hinaus weitere
 Ausschüsse einrichten. Die Ausschüsse der FK bestehen aus mindestens 3 durch
@@ -916,7 +916,7 @@ Präsidium des Studierendenparlaments weiter und stellt eine regelmäßige
 Berichterstattung über die Ausschussarbeit sicher.
 
 
-### § 24 Fakultäts-Fachschaftenkonferenzen
+### § 25 Fakultäts-Fachschaftenkonferenzen
 
 (1) Die Fachschaften einer Fakultät haben das Recht, eine Fakultäts-
 Fachschaftenkonferenz (Fakultäts-FKen) zu bilden und über diese Vertretungen
@@ -943,7 +943,7 @@ Bonn hat Rederecht.
 Gelder über die FK beantragen.
 
 
-### § 25 Schlussbestimmungen
+### § 26 Schlussbestimmungen
 
 (1) Diese Geschäftsordnung tritt mit ihrer Veröffentlichung durch die
 Öffentlichkeitsbeauftragte in Kraft.
@@ -954,28 +954,5 @@ entsprechend.
 
 (3) Im Falle einer planwidrigen Regelungslücke ist die Geschäftsordnung des
 Bonner Studierendenparlaments entsprechend anzuwenden.
-
-
-
-----
-
-
-# Anlage 1 zur FKGO -- Abkürzungsverzeichnis
-
-| Abkürzung |  Bedeutung                                                            | Erläuterung                                                        |
-|-----------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
-| AFSG      | *Allgemeine Fachschaftengelder*                                       | Geldmittel für den allgemeinen Geschäftsbetrieb, abhängig von der Größe der Fachschaft und für jedes Semester einmalig beantragbar |
-| AStA      | *Allgemeiner Studierendenausschuss*                                   | Das vollziehende Organ der studentischen Selbstverwaltung |
-| BFSG      | *Besondere Fachschaftengelder*                                        | Geldmittel zur Förderung einzelner wichtiger Fachschaftsbelange, maßnahmenbezogen beantragbar |
-| FID       | *Fachschaften-Informationsdienst*                                     | Sitzungsprotokoll für die Fachschaftenkonferenz |
-| FK        | *Fachschaftenkonferenz*                                               | Ständige Vollversammlung der Fachschaften |
-| FR        | *Fachschaftenreferat*                                                 | Autonomes Referat des AStA bestehend aus den Mitgliedern des FSK |
-| FSK       | *Fachschaftenkollektiv*                                               | Ausführendes Organ der FK |
-| FSR       | *Fachschaftsrat*                                                      | Vertretung und Geschäftsführung der Fachschaften; übernimmt in kleineren Fachschaften die Rolle der FSV |
-| FsS       | *Fachschaftssatzung*                                                  | Fachschaftseigene grundlegende Satzung oder Ordnung |
-| FSV       | *Fachschaftsvertretung*                                               | Beschlussorgan der Fachschaften |
-| FSVV      | *Fachschaftsvollversammlung*                                          | Vollversammlung der einzelnen Fachschaften |
-| SdS       | *Satzung der Studierendenschaft*                                      | Ranghöchste Satzung innerhalb der studentischen Selbstverwaltung |
-| SP        | *Studierendenparlament*                                               | Oberstes beschlussfassendes Organ der Studierendenschaft |
 
 
