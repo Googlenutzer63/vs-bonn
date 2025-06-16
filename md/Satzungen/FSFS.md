@@ -14,6 +14,8 @@ contains:
   puburl:
   ref: HEAD/md/Satzungen/FSFS.md
 ---
+### Präambel
+Die nachstehende Satzung bedient sich des generischen Femininums. Alle Personen- und Funktionsbezeichnungen in dieser Satzunf gelten für alle Menschen unabhängig ihres Geschlechts.
 
 # Abschnitt 1 – Allgemeines
 
@@ -223,7 +225,7 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 (8) Ein Haushaltsplan ist gültig, wenn er die in den Absätzen 1 bis 5 festgelegten Anforderungen erfüllt. Andernfalls ist er ungültig. 
 
-(9) Die Ungültigkeit eines Haushaltsplans wird vom FSK festgestellt und der betreffenden Fachschaft unter Nennung der zu behebenden Mängel mitgeteilt. Der FSR-Vorsitz hat den Beschluss eines ungültigen Haushaltsplans oder Nachtragshaushaltsplans, welcher nicht redaktionell korrigiert werden kann zu beanstanden und vom beschlussfassenden Gremium unverzügliche Abhilfe zu verlangen. Eine solche Beanstandung hat aufschiebende Wirkung. Solange das beschlussfassende Gremium der Abhilfe nicht nachgekommen ist, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden. Existiert kein solcher, ist die vorläufige Haushaltsführung anzuwenden. 
+(9) Die Ungültigkeit eines Haushaltsplans nach Absatz 8 kann vom FSK festgestellt werden und wird der betreffenden Fachschaft unter Nennung der zu behebenden Mängel mitgeteilt. Der FSR-Vorsitz hat den Beschluss eines nach Absatz 8 ungültigen Haushaltsplans oder nach § 9 Absatz 4 ungültigen Nachtragshaushaltsplans, welcher nicht redaktionell korrigiert werden kann zu beanstanden und vom beschlussfassenden Gremium unverzügliche Abhilfe zu verlangen. Eine solche Beanstandung hat aufschiebende Wirkung. Solange das beschlussfassende Gremium der Abhilfe nicht nachgekommen ist, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden. Existiert kein solcher, ist die vorläufige Haushaltsführung anzuwenden. 
 
 
 ### § 8 Vorläufige Haushaltsführung
@@ -337,6 +339,7 @@ Kassenprüfende müssen Teil der Studierendenschaft der RFWU Bonn sein.
 
 Dem Bericht ist eine Auflistung der Mitglieder des FSR während des Prüfungszeitraums und/oder zum Prüfungszeitpunkt beizufügen.
 
+(4) Die Entlastungsempfehlung soll auf der nächsten Sitzung der FSV oder der FSVV behandelt werden. Die finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten ergibt. Näheres ist durch die Fachschaftssatzung zu regeln. 
 
 # Abschnitt 3 - Allgemeine Fachschaftengelder (AFSG)
 
@@ -693,7 +696,7 @@ Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
 Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
 Kompensation nicht vermeidbarer Treibhausgasemissionen des Allgemeinen
 Studierendenausschusses (AStA) berücksichtigen.
-6. Bei Veranstaltungen, Allgemeinen Fahrten und Exkursionen zudem ein Programm. Bei
+6. Bei Veranstaltungen, Allgemeinen Fahrten, Exkursionen und der Ausrichtung einer Fachschaftentgung gemäß 5. i zudem ein Programm. Bei
 Allgemeinen Fahrten und Exkursionen außerdem eine Teilnehmerliste mit Unterschriften aller
 Teilnehmenden. Bei Druckwerken die entsprechende Bebilderung oder ein
 Belegexemplar. Sowie alle weiteren, unter den jeweiligen Punkten geforderten,
