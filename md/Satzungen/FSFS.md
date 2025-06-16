@@ -27,7 +27,7 @@ Diese Satzung regelt gemäß § 43 der Satzung der Studierendenschaft:
 
 ### § 2 Code of Conduct 
 
-Die Fachschaftenkonferenz kann in einem Code of Conduct, der Regelungen bezüglich des Umgangs mit sexualisierten, rassistischen und weiteren Formen von Diskriminierung und Gewalt trifft Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der Fachschaftenkonferenz beschlossen werden müssen. Sanktionen können insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich der Auszahlungsfähigkeit von Fachschaften sein.
+Die Fachschaftenkonferenz kann in einem Code of Conduct, der Regelungen bezüglich des Umgangs mit sexualisierten, rassistischen und weiteren Formen von Diskriminierung und Gewalt trifft, Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der Fachschaftenkonferenz beschlossen werden müssen. Sanktionen können insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich der Auszahlungsfähigkeit von Fachschaften sein.
 
 ### § 3 Fachschaftengelder
 
