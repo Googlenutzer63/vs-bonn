@@ -819,11 +819,11 @@ falls notwendig, Vorrang gegenüber anderen Aufgaben, insbesondere der
 Bearbeitung von Finanzanträgen zu geben.
 
 (4) Der Vorsitz ist für die Anweisung der Auszahlung von Geldern an die
-Fachschaften im Sinne der Satzung der Studierendenschaft (SdS) und dieser GO
+Fachschaften im Sinne der Satzung der Studierendenschaft (SdS), der Finanzsatzung und dieser GO
 verantwortlich. Diese Aufgabe ist nur auf die zeichnungsberechtigte
 Stellvertreterin im Fachschaftenreferat übertragbar. Der Vorsitz und seine
 Stellvertreterin dürfen keine Gelder an ihre jeweiligen eigenen Fachschaften
-anweisen. Sind die Bedingungen dieser Geschäftsordnung oder der Satzung der
+anweisen. Sind die Bedingungen dieser Geschäftsordnung, der Finanzsatzung oder der Satzung der
 Studierendenschaft (SdS) nicht erfüllt, muss der Vorsitz die Anweisung
 verweigern und die FK auf vorliegende Mängel hinweisen. Bei ernsten Bedenken
 hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz
@@ -837,7 +837,7 @@ gesetzlichen Bestimmungen, der Verordnung über die Haushalts- und
 Wirtschaftsführung der Studierendenschaften der Universitäten, Fachhochschulen
 und Kunsthochschulen des Landes Nordrhein-Westfalen (Haushalts- und
 Wirtschaftsführungs-Verordnung der Studierendenschaften NRW), der Satzung
-der Studierendenschaft (SdS) und dieser GO, erfüllen und teilt Unterlassungen
+der Studierendenschaft (SdS), der Fachschaftsfinanzsatzung (FSFS), der Gliederungssatzumg (SGliedS) und dieser GO, erfüllen und teilt Unterlassungen
 oder Verstöße der FK mit. Hält die Mehrheit der Mitglieder des FSK Beschlüsse,
 Haushaltsführung, Maßnahmen oder Unterlassungen der Fachschaften für
 rechtswidrig, so hat sie von den betroffenen Fachschaften unter Setzung einer
