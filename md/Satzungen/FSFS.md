@@ -27,9 +27,12 @@ Diese Satzung regelt gemäß § 43 der Satzung der Studierendenschaft:
 2. Voraussetzungen für die Auszahlung von AFSG und BFSG
 3. Die Verfahren zur Antragstellung für AFSG und BFSG
 
-### § 2 Code of Conduct 
+### § 2 Code of Conduct und ordnungsgemäße Arbeit
 
-Die Fachschaftenkonferenz kann in einem Code of Conduct, der Regelungen bezüglich des Umgangs mit sexualisierten, rassistischen und weiteren Formen von Diskriminierung und Gewalt trifft, Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der Fachschaftenkonferenz beschlossen werden müssen. Sanktionen können insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich der Auszahlungsfähigkeit von Fachschaften sein.
+(1) Die Fachschaftenkonferenz kann in einem Code of Conduct, der Regelungen bezüglich des Umgangs mit sexualisierten, rassistischen und weiteren Formen von Diskriminierung und Gewalt trifft, Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der Fachschaftenkonferenz beschlossen werden müssen. Sanktionen können insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich der Auszahlungsfähigkeit von Fachschaften sein.
+
+(2) Bei ernsten Bedenken hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz des FSK finanzielle Mittel bezugsgebunden temporär einschränken. Dies hat er der FK
+mitzuteilen, die diese Einschränkung mit einfacher Mehrheit aufheben oder ausweiten kann.
 
 ### § 3 Fachschaftengelder
 
