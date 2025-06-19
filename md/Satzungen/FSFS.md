@@ -276,7 +276,9 @@ Folgt.
 
 ### § 14 Aufbewahrung der Finanzunterlagen
 
-Die Finanzunterlagen eines Haushaltsjahres sind nach Ablauf des 31. Dezembers des Kalenderjahres in denen das Haushaltsjahr endete weitere 10 Jahre aufzubewahren. 
+(1) Die Finanzunterlagen eines Haushaltsjahres sind nach Ablauf des 31. Dezembers des Kalenderjahres in denen das Haushaltsjahr endete weitere 10 Jahre aufzubewahren. 
+
+(2) Dem FSK ist auf Anfrage Einsicht in die Finanzunterlagen einer Fachschaft zu gewähren.
 
 
 ### § 15 Buchung von Rücklage, Überschuss und Fehlbetrag
