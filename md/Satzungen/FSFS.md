@@ -15,7 +15,7 @@ contains:
   ref: HEAD/md/Satzungen/FSFS.md
 ---
 ### Präambel
-Die nachstehende Satzung bedient sich des generischen Femininums. Alle Personen- und Funktionsbezeichnungen in dieser Satzunf gelten für alle Menschen unabhängig ihres Geschlechts.
+Die nachstehende Satzung bedient sich des generischen Femininums. Alle Personen- und Funktionsbezeichnungen in dieser Satzung gelten für alle Menschen unabhängig ihres Geschlechts.
 
 # Abschnitt 1 – Allgemeines
 
@@ -699,7 +699,7 @@ Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
 Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
 Kompensation nicht vermeidbarer Treibhausgasemissionen des Allgemeinen
 Studierendenausschusses (AStA) berücksichtigen.
-6. Bei Veranstaltungen, Allgemeinen Fahrten, Exkursionen und der Ausrichtung einer Fachschaftentgung gemäß 5. i zudem ein Programm. Bei
+6. Bei Veranstaltungen, Allgemeinen Fahrten, Exkursionen und der Ausrichtung einer Fachschaftentagung zudem ein Programm. Bei
 Allgemeinen Fahrten und Exkursionen außerdem eine Teilnehmerliste mit Unterschriften aller
 Teilnehmenden. Bei Druckwerken die entsprechende Bebilderung oder ein
 Belegexemplar. Sowie alle weiteren, unter den jeweiligen Punkten geforderten,
