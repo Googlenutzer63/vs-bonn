@@ -287,7 +287,7 @@ entsenden und deren Protokolle zu lesen.
 Änderung des Code of Conduct bedürfen der Zweidrittelmehrheit einer FK, auf
 der mindestens 20% der Fachschaften vertreten sind. § 13 gilt entsprechend. Der
 Code of Conduct trifft Regelungen bezüglich des Umgangs mit sexualisierten,
-rassistischen und weiteren Formen von Diskriminierung und Gewalt. Er kann
+rassistischen und weiteren Formen von Diskriminierung und Gewalt. Er kann gamäß § 2 der Fachschaftsfinanzsatzung (FSFS)
 Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der
 Fachschaftenkonferenz beschlossen werden müssen. Sanktionen können
 insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich
@@ -826,7 +826,7 @@ Stellvertreterin dürfen keine Gelder an ihre jeweiligen eigenen Fachschaften
 anweisen. Sind die Bedingungen dieser Geschäftsordnung, der Finanzsatzung oder der Satzung der
 Studierendenschaft (SdS) nicht erfüllt, muss der Vorsitz die Anweisung
 verweigern und die FK auf vorliegende Mängel hinweisen. Bei ernsten Bedenken
-hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz
+hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz gemäß § 2 der FSFS
 finanzielle Mittel bezugsgebunden temporär einschränken. Dies hat er der FK
 mitzuteilen, die diese Einschränkung mit einfacher Mehrheit aufheben oder
 ausweiten kann.
