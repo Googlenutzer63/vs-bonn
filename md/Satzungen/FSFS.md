@@ -263,16 +263,44 @@ Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der
 
 
 ### § 11 Kassenführung
+(1) Zahlungen dürfen nur aufgrund einer Kassenanordnung geleistet werden. Einzahlungen sind stets anzunehmen. Die Anordnung ist dann nachträglich zu erteilen.
 
-Für die §§ 11-13 sind die Formulierungen noch in Ausarbeitung. Da sieht die HWVO NRW sehr viel vor, dass wenn wir es einfach copy pasten und nur rudimentär auf FSen umschreiben, wir es selbst kaum verstehen.
+(2) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung bedürfen der Feststellung der sachlichen und rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist ein anderes Mitglied des FSR zu beauftragen.
+
 
 ### § 12 Kassenanordnungen
 
-Folgt.
+(1) Eine Kassenanordnung beinhaltet mindestens:
+1. Die Bezeichnung des Titels auf den gebucht wird
+2. Unterschriften für:
+    1. Rechnerische Richtigkeit
+    2. Sachliche Richtigkeit 
+    3. Anordnung
+3. Die Höhe der Buchung
+4. Angehangene Belege aus denen hervor geht was bezahlt werden soll
 
-### § 13 Buchführung 
+(2) Gemeinsam mit den Belegen muss die Kassenanordnung eine (Kassen-)Prüfung ohne Rückfragen ermöglichen
 
-Folgt.
+(3) Mit der Unterschrift für "Rechnerisch Richtig" übernimmt die Unterzeichnerin die Verantwortung dafür, dass die Zahlung korrekt berechnet wurde. Dies hat die Unterzeichnerin vorher zu prüfen. 
+
+(4) Mit der Unterschrift für "Sachlich Richtig" übernimmt die Finanzreferentin die Verantwortung dafür, dass die Zahlung inhaltlich korrekt, d.h. mit der Rechtslage und den Beschlüssen der Fachschaft vereinbar und im Sinne dessen ist.
+
+(5) Mit der Unterschrift der Anordnung übernimmt die Finanzreferentin die Verantwortung dafür, dass
+
+1. keine offensichtlich erkennbaren Fehler in der Kassenanordnung enthalten sind,
+2. die sachliche und rechnerische Richtigkeit der in der Kassenanordnung enthaltenen Angaben bescheinigt worden ist,
+3. der Titel richtig bezeichnet ist und
+4. Ausgabemittel in der vorgesehenen Höhe zur Verfügung stehen.
+
+
+### § 13 Buchführung
+
+(1) Es sind zwei seprate Übersichten über die Buchungen zu führen. Die erste Übersicht erfasst alle Buchungen in der Reihenfolge in der sie geleistet wurden (zeitliche Abfolge). Die zweite Übersicht erfasst alle Buchungen geordnet nach den jeweiligen Haushaltstiteln.
+
+(2) Die Kassenanordnungen sind nach Titeln getrennt fortlaufend zu nummerieren und in der Reihenfolge der Buchungen zu ordnen.
+
+(3) Bleibt am Ende des Haushaltsjahres der Gesamtbetrag der Einnahmen hinter dem Gesamtbetrag der Ausgaben zurück, so ist der Fehlbetrag im nächsten Haushaltsjahr als Ausgabe nachzuweisen. Ein Überschuss ist im nächsten Haushaltsjahr als Einnahme zu buchen.
+
 
 ### § 14 Aufbewahrung der Finanzunterlagen
 
