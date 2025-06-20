@@ -825,11 +825,8 @@ Stellvertreterin im Fachschaftenreferat übertragbar. Der Vorsitz und seine
 Stellvertreterin dürfen keine Gelder an ihre jeweiligen eigenen Fachschaften
 anweisen. Sind die Bedingungen dieser Geschäftsordnung, der Finanzsatzung oder der Satzung der
 Studierendenschaft (SdS) nicht erfüllt, muss der Vorsitz die Anweisung
-verweigern und die FK auf vorliegende Mängel hinweisen. Bei ernsten Bedenken
-hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz gemäß § 2 der FSFS
-finanzielle Mittel bezugsgebunden temporär einschränken. Dies hat er der FK
-mitzuteilen, die diese Einschränkung mit einfacher Mehrheit aufheben oder
-ausweiten kann.
+verweigern und die FK auf vorliegende Mängel hinweisen. Bei ernsten Bedenken hinsichtlich der ordnungsgemäßen Arbeit einer Fachschaft kann der Vorsitz des FSK gemäß § 2 der FSFS die Auszahlungsfähigkeit der Fachschaft bezugsgebunden temporär aussetzen oder einschränken. Dies hat er der FK mitzuteilen, die diese Einschränkung mit einfacher Mehrheit aufheben oder ausweiten kann.
+
 
 (5) Das FSK wirkt unbeschadet der Aufsichtsrechte des Rektorates darauf hin,
 dass die Organe der Fachschaften ihre Aufgaben und Pflichten im Rahmen der
