@@ -270,9 +270,7 @@ Menschen unabhängig ihres Geschlechts.
 
 (1) Die Fachschaftenkonferenz (FK) ist die ständige Vollversammlung der
 Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (RFWU
-Bonn). Sie wird gebildet aus Vertreterinnen aller Fachschaften der RFWU Bonn
-
-(Delegierten) und ist an keine Amtszeit gebunden. Ihr sitzt das
+Bonn). Sie wird gebildet aus Vertreterinnen aller Fachschaften der RFWU Bonn (Delegierten) und ist an keine Amtszeit gebunden. Ihr sitzt das
 Fachschaftenkollektiv (FSK) vor.
 
 (2) Die FK dient dem Erfahrungsaustausch der Fachschaften. Sie kann
