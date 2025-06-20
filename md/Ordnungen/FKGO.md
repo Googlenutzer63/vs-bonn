@@ -746,8 +746,7 @@ Fachschaftenreferat können nicht von Personen mit einer gleichen
 Fachschaftszugehörigkeit besetzt werden.
 
 (3) Zusätzliche Mitglieder des FSK können jederzeit gewählt werden. Ihre
-Amtszeit reicht bis zum Beginn des nächsten Wintersemesters. FSK-Mitglieder
-mit zugewiesenem Arbeitsbereich, wie auch der Vorsitz, bleiben bis zur Neuwahl
+Amtszeit reicht bis zum Beginn des nächsten Wintersemesters. Die Mitglieder des FSK, wie auch der Vorsitz, bleiben bis zur Neuwahl
 kommissarisch im Amt.
 
 (4) Die Kandidatinnen haben sich auf Verlangen vorzustellen.
@@ -767,7 +766,7 @@ Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 (2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung und die Vorsitzenden des FSK sind zugleich beide Referentinnen des Fachschaftenreferats. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
 Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
-(3) Hält eine Vorsitzende eine Maßnahme der anderen Vorsitzenden für unrechtmäßig oder unverhältnismäßig, so ist die Wirkung der Maßnahme sofern dies möglich ist aufgeschoben, bis die FK sich bei ihrem nächsten Zusammentreten nicht mehrheitlich gegen die strittige Maßnahme ausgesprochen hat. Spricht die FK sich mehrheitlich gegen eine strittige Maßnahme aus, ist diese soweit möglich rückabzuwickeln. Abweichend von § 13 sind alle 3 Lesungen auf einer Sitzung durchzuführen, sofern die FK nichts gegenteiliges beschließt. Im Falle eines solchen Beschlusses hat die aufschiebende Wirkung bestand. In besonderen Ausnahmefällen und insbesondere Fällen besonderer Dringlichkeit die das Abwarten der nächsten FK nicht ermöglichen, kann das FSK die aufschiebende Wirkung mit Mehrheit von 2/3 der FSK-Mitglieder, die nicht Vorsitz des FSK sind, aufheben.
+(3) Hält eine Vorsitzende eine Maßnahme der anderen Vorsitzenden für unrechtmäßig oder unverhältnismäßig, so ist die Wirkung der Maßnahme sofern dies möglich ist aufgeschoben, bis die FK sich bei ihrem nächsten Zusammentreten nicht mehrheitlich gegen die strittige Maßnahme ausgesprochen hat. Spricht die FK sich mehrheitlich gegen eine strittige Maßnahme aus, ist diese soweit möglich rückabzuwickeln. Abweichend von § 14 sind alle 3 Lesungen auf einer Sitzung durchzuführen, sofern die FK nichts gegenteiliges beschließt. Im Falle Beschlusses die Lesungen über mehrere Sitzungen zu verteilen hat die aufschiebende Wirkung bestand. In besonderen Ausnahmefällen und insbesondere Fällen besonderer Dringlichkeit die das Abwarten der nächsten FK nicht ermöglichen, kann das FSK die aufschiebende Wirkung mit Mehrheit von 2/3 der FSK-Mitglieder, die nicht Vorsitz des FSK sind, aufheben.
 
 (4) Für Unterlassungen sind beide Vorsitzende gleichermaßen verantwortlich, sofern nicht in gegenseitigem Einvernehmen eine schriftliche Übertragung der Verantwortung auf eine der Vorsitzenden erfolgt ist.
 
@@ -795,13 +794,13 @@ Vorkommnisse und für ihre Arbeit wichtige Abläufe;
 Bedeutung für die Fachschaften verantwortlich:
 
 1. die Sicherung der ordnungsgemäßen und demokratischen Arbeit der
-Fachschaften im Sinne der Satzung der Studierendenschaft (SdS) und dieser
+Fachschaften im Sinne der Satzung der Studierendenschaft (SdS), der Finanzsatzung, der Gliederungssatzung und dieser
 Geschäftsordnung;
 2. die Vertretung der Interessen der Fachschaften in Bezug auf Rechtsakte der
 Studierendenschaft, insbesondere Änderungen der Satzung der
 Studierendenschaft (SdS) sowie Beschlüsse von Beitragsordnungen und
 Haushaltsplänen;
-3. die Aktualisierung der Anlage „Fachschaftenliste“ zur FKGO. Diese ist einmal
+3. die Aktualisierung der Gliederungssatzung. Diese ist einmal
 im Semester zu prüfen und bei Bedarf zu aktualisieren.
 
 (3) Die Verantwortung für die Erfüllung der Aufgaben mit gehobener Bedeutung
@@ -870,7 +869,7 @@ Mitglieder an, solange die Fachschaftswahlordnung keine andere Anzahl festlegt.
 
 (7) Der Satzungs- und Geschäftsordnungsausschuss (GoSaFK) ist für die
 Ausarbeitung von Dokumenten, welche die Arbeit der Fachschaften regeln,
-zuständig. Dazu gehören insbesondere diese Geschäftsordnung und die
+zuständig. Dazu gehören insbesondere diese Geschäftsordnung, die Fachschaftsfinanzsatzung, die Gliederungssatzung und die
 Fachschaftswahlordnung.
 
 (8) Solange ein ständiger Ausschuss unbesetzt ist oder nicht die Mindestanzahl an
@@ -914,8 +913,7 @@ Themen, die über die Kapazität der FK hinausgehen, auf diesen Teilkonferenzen
 behandelt werden. Die Bildung ist der FK sowie allen Fachschaften der Fakultät
 anzuzeigen und über die Sitzungen ist auf der FK zu berichten.
 
-(2) Sofern die Fakultäts-FK sich keine eigene Geschäftsordnung gibt, gilt die
-FKGO, soweit anwendbar, entsprechend. Die Fakultäts-FK wählt aus ihrer Mitte
+(2) Sofern die Fakultäts-FK sich keine eigene Geschäftsordnung gibt, gilt diese Geschäftsordnung, soweit anwendbar, entsprechend. Die Fakultäts-FK wählt aus ihrer Mitte
 einen Vorsitz und eine Schriftführung und entscheidet selbst, wie oft sie
 zusammentritt.
 
@@ -934,8 +932,8 @@ Gelder über die FK beantragen.
 
 ### § 26 Schlussbestimmungen
 
-(1) Diese Geschäftsordnung tritt mit ihrer Veröffentlichung durch die
-Öffentlichkeitsbeauftragte in Kraft.
+(1) Diese Geschäftsordnung am Tage nach ihrer Veröffentlichung durch die
+Öffentlichkeitsbeauftragte in Kraft, frühestens aber mit Inkrafttreten der 9. Satzung zur Änderung der Satzung der Studierendenschaft, der Fachschaftsfinanzsatzung und der Gliederungssatzung.
 
 (2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer
 FK, auf der mindestens 20% der Fachschaften vertreten sind. § 14 gilt
