@@ -337,13 +337,13 @@ Regelungen dieser Geschäftsordnung auch in Präsenz oder rein elektronischer
 Form (digital) stattfinden. Die Fachschaften sind hierüber frühzeitig zu
 informieren.
 
-### § X Behandlung von BFSG-Anträgen 
+### § 4 Behandlung von BFSG-Anträgen 
 
 (1) Im Regelfall werden BFSG-Anträge auf der ersten Finanz-FK eines Monats vorgestellt und auf der zweiten abgestimmt. In besonderen Ausnahmefällen entfällt diese Vorgabe. Darüber hinaus können auf allen Ferien-FKen sowohl Anträge vorgestellt als auch abgestimmt werden. Das FSK bringt die vollständigen Anträge zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge, die weniger als zwei Wochen vor der nächsten FK, auf welcher Anträge vorgestellt werden vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
 
 (2) Die Fachschaft, die den Antrag stellt, muss auf den FKen, auf welchen ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf der Anträge vorgestellt werden verschoben. 
 
-### § 4 Tagesordnung
+### § 5 Tagesordnung
 
 (1) Die Tagesordnung (TO) jeder regulären Sitzung muss folgende Punkte
 enthalten:
@@ -354,18 +354,18 @@ enthalten:
 4. Ausschüsse
 5. Sonstiges
 
-(2) Der Tagesordnungspunkt ‚Berichte‘ muss die Gelegenheit bieten aus den
+Der Tagesordnungspunkt ‚Berichte‘ muss die Gelegenheit bieten aus den
 Fachschaften, dem Fachschaftenkollektiv, den Ausschüssen der FK und anderen
 Gremien der Studierendenschaft zu berichten. Die Vorgaben sind inhaltlicher
 Natur. Von der Nummerierung, Reihenfolge und Betitelung kann abgewichen
 werden.
 
-(3) Die TO einer Sonder-FK muss mit der Einladung verschickt werden und alle
+(2) Die TO einer Sonder-FK muss mit der Einladung verschickt werden und alle
 zu behandelnden Anträge mit Ausnahme von Geschäftsordnungs- und
 Änderungsanträgen beinhalten.
 
 
-### § 5 Leitung der Sitzung
+### § 6 Leitung der Sitzung
 
 (1) Der Vorsitz des Fachschaftenkollektivs (FSK) sitzt der FK vor. Er eröffnet,
 leitet und schließt die Sitzung (Sitzungsleitung).
@@ -374,14 +374,14 @@ leitet und schließt die Sitzung (Sitzungsleitung).
 Verlassen der Sitzung oder durch Beschluss der FK von einem anderen Mitglied
 des FSK vertreten. Für einzelne Tagesordnungspunkte kann die FK auf Vorschlag
 des Vorsitz des FSK eine Sitzungsleitung bestimmen welche nicht dem FSK
-angehört. In Fällen einer Abwahl des Vorsitzes nach §21 Absatz 1 kann die FK
+angehört. In Fällen einer Abwahl des Vorsitzes nach §23 Absatz 1 kann die FK
 ebenfalls eine Sitzungsleitung bestimmen welche nicht dem FSK angehört.
 
 (3) Die Sitzungsleitung übt im Sitzungssaal das Hausrecht aus und wahrt die
 Ordnung im Sitzungsraum.
 
 
-### § 6 Rederecht
+### § 7 Rederecht
 
 (1) Jedes Mitglied der Studierendenschaft der RFWU Bonn hat Rederecht.
 
@@ -391,7 +391,7 @@ Ordnung im Sitzungsraum.
 Rederecht.
 
 
-### § 7 Aussprache
+### § 8 Aussprache
 
 (1) Die Sitzungsleitung eröffnet über jeden Verhandlungsgegenstand, der auf der
 Tagesordnung steht, die Aussprache.
@@ -409,13 +409,13 @@ erscheint.
 Sitzungsleitung die Aussprache für beendet.
 
 
-### § 8 Antragsrecht
+### § 9 Antragsrecht
 
 Antragsberechtigt sind alle Studierenden der RFWU Bonn sowie die Organe und
 Gremien der Studierendenschaft.
 
 
-### § 9 Meldungen zur Geschäftsordnung
+### § 10 Meldungen zur Geschäftsordnung
 
 (1) Meldungen, also Äußerungen, Anträge und Verlangen zur Geschäftsordnung (GO)
 dürfen sich nur mit dem Gang der Verhandlung befassen.
@@ -495,14 +495,14 @@ außerhalb der Redeliste.
 angenommen; andernfalls ist über den Antrag nach Anhörung einer Gegenrede
 abzustimmen.
 
-(7) Verlangen nach §9 Absatz 4 a.-e. muss nur entsprochen werden, wenn sie
+(7) Verlangen nach §10 Absatz 4 a.-e. muss nur entsprochen werden, wenn sie
 durch ein Mitglied des FSK oder eine Delegierte angemeldet werden. Ansonsten
 ist das Verlangen wie ein GO-Antrag zu behandeln. Alle Verlangen müssen im
 FID erwähnt werden. Die Aussprache bei Verlangen den entsprochen werden
 muss, ist auf die Antragsstellende zu beschränken.
 
 
-### § 10 Protokoll
+### § 11 Protokoll
 
 (1) Das Protokoll der FK heißt Fachschaften-Informationsdienst (FID).
 
@@ -524,8 +524,7 @@ vollständiger, grammatikalisch korrekter Sätze bedient werden.
 vollständigen Namen der gewählten Personen
 4. Anmerkungen und Kritik zu Finanzanträgen
 5. Abstimmungsergebnisse zu Anträgen
-6. Den beschlossenen Wortlaut von Anträgen, welche nicht unter §§ 27 bis 31
-fallen. Alternativ können Anträge dem FID angehängt werden.
+6. Den beschlossenen Wortlaut von Anträgen, welche nicht Anträge auf BFSG sind. Alternativ können Anträge dem FID angehängt werden.
 7. Die Vornamen der Mitglieder des FSK
 
 (5) Das Protokoll wird ausschließlich digital versandt. Die Fachschaften tragen
@@ -541,7 +540,7 @@ zu bieten, Änderungswünsche einzubringen.
 ist den Anwesenden in diesem Falle mitzuteilen.
 
 
-### § 11 Auskunftspflicht
+### § 12 Auskunftspflicht
 
 (1) Auf begründetes Begehren von mindestens drei Fachschaften oder des Vorsitz
 des FSK hat eine Vertreterin einer bestimmten Fachschaft auf der nachfolgenden
@@ -570,7 +569,7 @@ werden.
 
 ## III. Beschlussfassung
 
-### § 12 Stimmrecht
+### § 13 Stimmrecht
 
 (1) Stimmberechtigt sind die von einem Organ einer Fachschaft dazu
 bevollmächtigten Vertreterinnen (Delegierten). Jede Fachschaft hat bei
@@ -585,7 +584,7 @@ nachzuweisen.
 
 (4) Mitglieder des FSK können nicht Delegierte einer Fachschaft sein.
 
-### § 13 Beschlussfähigkeit
+### § 14 Beschlussfähigkeit
 
 (1) Die FK ist beschlussfähig, wenn mindestens 20% aller Fachschaften vertreten
 sind.
@@ -600,7 +599,7 @@ festgestellt worden ist.
 Sonderfachschaftenkonferenzen Anwendung.
 
 
-### § 14 Lesungen
+### § 15 Lesungen
 
 (1) Anträge auf Beschlussfassung werden grundsätzlich in 3 Lesungen behandelt.
 
@@ -625,7 +624,7 @@ Lesungen auf einer Sitzung zu behandeln. Ausgenommen davon sind Anträge und
 Stellungnahmen zu Finanzen, Satzungen, Ordnungen, Statuten, sowie
 Personalwahlen.
 
-### § 15 Abstimmungen
+### § 16 Abstimmungen
 
 (1) Abstimmungen werden grundsätzlich durch Handzeichen durchgeführt. Auf
 Verlangen einer Delegierten oder FSK-Mitglieds ist die Abstimmung geheim
@@ -662,7 +661,7 @@ muss, sofern äußere Umstände dies nicht verhindern, in Präsenz stattfinden.
 (8) Wahlen können nicht auf digitalen oder hybriden Sitzungen stattfinden, wenn
 mehr Personen kandidieren als Plätze zu besetzen sind. 
 
-### § 16 Behandlung von BFSG-Anträgen 
+### § 17 Behandlung von BFSG-Anträgen 
 
 (1) Im Regelfall werden BFSG-Anträge auf der ersten Finanz-FK eines Monats vorgestellt und auf der zweiten abgestimmt. In besonderen Ausnahmefällen entfällt diese Vorgabe. Darüber hinaus können auf allen Ferien-FKen sowohl Anträge vorgestellt als auch abgestimmt werden. Das FSK bringt die vollständigen Anträge zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge, die weniger als zwei Wochen vor der nächsten FK, auf welcher Anträge vorgestellt werden vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
 
@@ -672,7 +671,7 @@ mehr Personen kandidieren als Plätze zu besetzen sind.
 ## IV. Ordnungsmaßnahmen
 
 
-### § 17 Sach- und Ordnungsruf
+### § 18 Sach- und Ordnungsruf
 
 (1) Die Sitzungsleitung kann eine Rednerin, die vom Verhandlungsgegenstand
 abweicht, zur Sache verweisen (Sachruf). Sie kann Anwesende, wenn sie die
@@ -687,21 +686,21 @@ unverzüglich Einspruch einlegen.
 sie gegen den Sach- oder Ordnungsruf, so gilt er als nicht geäußert.
 
 
-### § 18 Wortentziehung
+### § 19 Wortentziehung
 
 Ist eine Rednerin während einer Rede dreimal zur Sache gerufen und beim
 zweiten Mal auf die Folgen eines dritten Rufes hingewiesen worden, so entzieht
 die Sitzungsleitung ihr das Wort.
 
 
-### § 19 Ausschluss von der Sitzung
+### § 20 Ausschluss von der Sitzung
 
 Ist eine Person während einer Sitzung dreimal zur Ordnung gerufen und beim
 zweiten Mal auf die Folgen eines dritten Rufes hingewiesen worden, so schließt
 die Sitzungsleitung sie von der Sitzung aus.
 
 
-### § 20 Unterbrechung der Sitzung
+### § 21 Unterbrechung der Sitzung
 
 Wenn im Sitzungsraum störende Unruhe entsteht, die den Fortgang der
 Verhandlungen in Frage stellt, kann die Sitzungsleitung die Sitzung auf
@@ -711,7 +710,7 @@ Sitzungsleitung nach eigenem Ermessen.
 
 ## V. Das Fachschaftenkollektiv
 
-### § 21 Das Fachschaftenkollektiv
+### § 22 Das Fachschaftenkollektiv
 
 (1) Das Fachschaftenkollektiv (FSK) ist ausführendes Organ der FK. Es besteht
 aus einem Vorsitz und mindestens 3 weiteren Mitgliedern.
@@ -737,7 +736,7 @@ des Referats. Für die Besetzung ist die Wahl des FSK maßgeblich.
 sein.
 
 
-### § 22 Wahl des Vorsitzes und der weiteren Mitglieder des FSK
+### § 23 Wahl des Vorsitzes und der weiteren Mitglieder des FSK
 
 (1) Der Vorsitz und die weiteren Mitglieder des Fachschaftenkollektivs (FSK)
 werden zu Beginn des Wintersemesters mit einfacher Mehrheit für ein Jahr
@@ -746,7 +745,7 @@ Stellvertreterinnen ernennen. Dies hat er der FK mitzuteilen. Die Mitglieder des
 FSK können zurücktreten oder auf Antrag von mindestens fünf Fachschaften
 abgewählt werden. Die Abwahl oder der Rücktritt des Vorsitzes oder seiner
 zeichnungsberechtigten Stellvertreterin ist nur unter gleichzeitiger Neubesetzung
-des Amtes möglich. § 13 gilt entsprechend. Die Abstimmung zur Abwahl und die
+des Amtes möglich. § 14 gilt entsprechend. Die Abstimmung zur Abwahl und die
 Einladung zur nächsten Sitzung übernimmt eine gewählte Sitzungsleitung.
 
 (2) Die Posten des Vorsitzes und der zeichnungsberechtigten Stellvertreterin im
@@ -768,18 +767,18 @@ oder einem weiteren Amt innerhalb des AStA.
 Mitgliedschaft in einem FSV-Präsidium, der Mitgliedschaft in einem FSR-
 Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
-### § 22a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
+### § 23a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
 
 (1) In besonderen Ausnahmefällen kann die FK zwei Personen zu gleichberechtigten Vorsitzenden des FSK wählen. Sie dürfen nicht einer gleichen Fachschaft angehören.
 
 (2) In diesem Fall entfällt die Rolle der zeichnungsberechtigten Stellvertretung und die Vorsitzenden des FSK sind zugleich beide Referentinnen des Fachschaftenreferats. Die Möglichkeit aus den gewählten Mitgliedern des Fachschaftenkollektivs bis zu 2
 Stellvertreterinnen zu ernennen bleibt hiervon unberührt.
 
-(3) Hält eine Vorsitzende eine Maßnahme der anderen Vorsitzenden für unrechtmäßig oder unverhältnismäßig, so ist die Wirkung der Maßnahme sofern dies möglich ist aufgeschoben, bis die FK sich bei ihrem nächsten Zusammentreten nicht mehrheitlich gegen die strittige Maßnahme ausgesprochen hat. Spricht die FK sich mehrheitlich gegen eine strittige Maßnahme aus, ist diese soweit möglich rückabzuwickeln. Abweichend von § 13 sind alle 3 Lesungen auf einer Sitzung durchzuführen, sofern die FK nichts gegenteiliges beschließt. Im Falle eines solchen Beschlusses hat die aufschiebende Wirkung bestand. In besonderen Ausnahmefällen und insbesondere Fällen besonderer Dringlichkeit die das Abwarten der nächsten FK nicht ermöglichen, kann das FSK die aufschiebende Wirkung mit Mehrheit von 2/3 der FSK-Mitglieder, die nicht Vorsitz des FSK sind, aufheben.
+(3) Hält eine Vorsitzende eine Maßnahme der anderen Vorsitzenden für unrechtmäßig oder unverhältnismäßig, so ist die Wirkung der Maßnahme sofern dies möglich ist aufgeschoben, bis die FK sich bei ihrem nächsten Zusammentreten nicht mehrheitlich gegen die strittige Maßnahme ausgesprochen hat. Spricht die FK sich mehrheitlich gegen eine strittige Maßnahme aus, ist diese soweit möglich rückabzuwickeln. Abweichend von § 14 sind alle 3 Lesungen auf einer Sitzung durchzuführen, sofern die FK nichts gegenteiliges beschließt. Im Falle eines solchen Beschlusses hat die aufschiebende Wirkung bestand. In besonderen Ausnahmefällen und insbesondere Fällen besonderer Dringlichkeit die das Abwarten der nächsten FK nicht ermöglichen, kann das FSK die aufschiebende Wirkung mit Mehrheit von 2/3 der FSK-Mitglieder, die nicht Vorsitz des FSK sind, aufheben.
 
 (4) Für Unterlassungen sind beide Vorsitzende gleichermaßen verantwortlich, sofern nicht in gegenseitigem Einvernehmen eine schriftliche Übertragung der Verantwortung auf eine der Vorsitzenden erfolgt ist.
 
-### § 23 Aufgaben des FSK
+### § 24 Aufgaben des FSK
 
 (1) Die Aufgaben des Fachschaftenkollektivs (FSK) sind:
 
@@ -797,7 +796,7 @@ der Universitätsverwaltung, dem Studierendenwerk und dem Rektorat der
 Universität;
 6. die Information der Fachschaften über wesentliche sie betreffende
 Vorkommnisse und für ihre Arbeit wichtige Abläufe;
-7. die zeitweise Übernahme der Aufgabe von Ausschüssen nach §23 Absatz 9.
+7. die zeitweise Übernahme der Aufgabe von Ausschüssen nach §24 Absatz 9.
 
 (2) Darüber hinaus ist das FSK für die folgenden Aufgaben von gehobener
 Bedeutung für die Fachschaften verantwortlich:
@@ -847,14 +846,14 @@ Fachschaft die Pflicht, das Rektorat unverzüglich zu informieren.
 
 ## VI. Weitere Gremien
 
-### § 24 Ausschüsse
+### § 25 Ausschüsse
 
 (1) Es gibt zwei ständige Ausschüsse der FK. Sie kann darüber hinaus weitere
 Ausschüsse einrichten. Die Ausschüsse der FK bestehen aus mindestens 3 durch
 die FK gewählten Mitgliedern.
 
 (2) Die Mitglieder werden mit einfacher Mehrheit gewählt. Die Kandidatinnen
-haben sich auf Verlangen vorzustellen. Es gilt § 13. Ein Rücktritt ist jederzeit auf
+haben sich auf Verlangen vorzustellen. Es gilt § 14. Ein Rücktritt ist jederzeit auf
 der FK oder durch Anzeige gegenüber des Vorsitz des Fachschaftenkollektivs (FSK)
 möglich.
 
@@ -913,7 +912,7 @@ Präsidium des Studierendenparlaments weiter und stellt eine regelmäßige
 Berichterstattung über die Ausschussarbeit sicher.
 
 
-### § 25 Fakultäts-Fachschaftenkonferenzen
+### § 26 Fakultäts-Fachschaftenkonferenzen
 
 (1) Die Fachschaften einer Fakultät haben das Recht, eine Fakultäts-
 Fachschaftenkonferenz (Fakultäts-FKen) zu bilden und über diese Vertretungen
@@ -940,13 +939,13 @@ Bonn hat Rederecht.
 Gelder über die FK beantragen.
 
 
-### § 26 Schlussbestimmungen
+### § 27 Schlussbestimmungen
 
 (1) Diese Geschäftsordnung tritt mit ihrer Veröffentlichung durch die
 Öffentlichkeitsbeauftragte in Kraft.
 
 (2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer
-FK, auf der mindestens 20% der Fachschaften vertreten sind. § 13 gilt
+FK, auf der mindestens 20% der Fachschaften vertreten sind. § 14 gilt
 entsprechend.
 
 (3) Im Falle einer planwidrigen Regelungslücke ist die Geschäftsordnung des
