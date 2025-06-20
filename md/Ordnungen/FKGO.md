@@ -285,7 +285,7 @@ entsenden und deren Protokolle zu lesen.
 
 (4) Die Fachschaftenkonferenz gibt sich einen Code of Conduct. Beschluss und
 Änderung des Code of Conduct bedürfen der Zweidrittelmehrheit einer FK, auf
-der mindestens 20% der Fachschaften vertreten sind. § 13 gilt entsprechend. Der
+der mindestens 20% der Fachschaften vertreten sind. § 14 gilt entsprechend. Der
 Code of Conduct trifft Regelungen bezüglich des Umgangs mit sexualisierten,
 rassistischen und weiteren Formen von Diskriminierung und Gewalt. Er kann gamäß § 2 der Fachschaftsfinanzsatzung (FSFS)
 Sanktionen bei Nichteinhaltung vorsehen, die mit einer Zweidrittelmehrheit der
@@ -337,11 +337,6 @@ Regelungen dieser Geschäftsordnung auch in Präsenz oder rein elektronischer
 Form (digital) stattfinden. Die Fachschaften sind hierüber frühzeitig zu
 informieren.
 
-### § X Behandlung von BFSG-Anträgen 
-
-(1) Im Regelfall werden BFSG-Anträge auf der ersten Finanz-FK eines Monats vorgestellt und auf der zweiten abgestimmt. In besonderen Ausnahmefällen entfällt diese Vorgabe. Darüber hinaus können auf allen Ferien-FKen sowohl Anträge vorgestellt als auch abgestimmt werden. Das FSK bringt die vollständigen Anträge zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge, die weniger als zwei Wochen vor der nächsten FK, auf welcher Anträge vorgestellt werden vollständig eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
-
-(2) Die Fachschaft, die den Antrag stellt, muss auf den FKen, auf welchen ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf der Anträge vorgestellt werden verschoben. 
 
 ### § 4 Tagesordnung
 
@@ -354,13 +349,13 @@ enthalten:
 4. Ausschüsse
 5. Sonstiges
 
-(2) Der Tagesordnungspunkt ‚Berichte‘ muss die Gelegenheit bieten aus den
+Der Tagesordnungspunkt ‚Berichte‘ muss die Gelegenheit bieten aus den
 Fachschaften, dem Fachschaftenkollektiv, den Ausschüssen der FK und anderen
 Gremien der Studierendenschaft zu berichten. Die Vorgaben sind inhaltlicher
 Natur. Von der Nummerierung, Reihenfolge und Betitelung kann abgewichen
 werden.
 
-(3) Die TO einer Sonder-FK muss mit der Einladung verschickt werden und alle
+(2) Die TO einer Sonder-FK muss mit der Einladung verschickt werden und alle
 zu behandelnden Anträge mit Ausnahme von Geschäftsordnungs- und
 Änderungsanträgen beinhalten.
 
@@ -374,7 +369,7 @@ leitet und schließt die Sitzung (Sitzungsleitung).
 Verlassen der Sitzung oder durch Beschluss der FK von einem anderen Mitglied
 des FSK vertreten. Für einzelne Tagesordnungspunkte kann die FK auf Vorschlag
 des Vorsitz des FSK eine Sitzungsleitung bestimmen welche nicht dem FSK
-angehört. In Fällen einer Abwahl des Vorsitzes nach §21 Absatz 1 kann die FK
+angehört. In Fällen einer Abwahl des Vorsitzes nach §22 Absatz 1 kann die FK
 ebenfalls eine Sitzungsleitung bestimmen welche nicht dem FSK angehört.
 
 (3) Die Sitzungsleitung übt im Sitzungssaal das Hausrecht aus und wahrt die
@@ -524,8 +519,7 @@ vollständiger, grammatikalisch korrekter Sätze bedient werden.
 vollständigen Namen der gewählten Personen
 4. Anmerkungen und Kritik zu Finanzanträgen
 5. Abstimmungsergebnisse zu Anträgen
-6. Den beschlossenen Wortlaut von Anträgen, welche nicht unter §§ 27 bis 31
-fallen. Alternativ können Anträge dem FID angehängt werden.
+6. Den beschlossenen Wortlaut von Anträgen, welche nicht Anträge auf BFSG sind. Alternativ können Anträge dem FID angehängt werden.
 7. Die Vornamen der Mitglieder des FSK
 
 (5) Das Protokoll wird ausschließlich digital versandt. Die Fachschaften tragen
@@ -746,7 +740,7 @@ Stellvertreterinnen ernennen. Dies hat er der FK mitzuteilen. Die Mitglieder des
 FSK können zurücktreten oder auf Antrag von mindestens fünf Fachschaften
 abgewählt werden. Die Abwahl oder der Rücktritt des Vorsitzes oder seiner
 zeichnungsberechtigten Stellvertreterin ist nur unter gleichzeitiger Neubesetzung
-des Amtes möglich. § 13 gilt entsprechend. Die Abstimmung zur Abwahl und die
+des Amtes möglich. § 14 gilt entsprechend. Die Abstimmung zur Abwahl und die
 Einladung zur nächsten Sitzung übernimmt eine gewählte Sitzungsleitung.
 
 (2) Die Posten des Vorsitzes und der zeichnungsberechtigten Stellvertreterin im
@@ -854,7 +848,7 @@ Ausschüsse einrichten. Die Ausschüsse der FK bestehen aus mindestens 3 durch
 die FK gewählten Mitgliedern.
 
 (2) Die Mitglieder werden mit einfacher Mehrheit gewählt. Die Kandidatinnen
-haben sich auf Verlangen vorzustellen. Es gilt § 13. Ein Rücktritt ist jederzeit auf
+haben sich auf Verlangen vorzustellen. Es gilt § 14. Ein Rücktritt ist jederzeit auf
 der FK oder durch Anzeige gegenüber des Vorsitz des Fachschaftenkollektivs (FSK)
 möglich.
 
@@ -946,7 +940,7 @@ Gelder über die FK beantragen.
 Öffentlichkeitsbeauftragte in Kraft.
 
 (2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer
-FK, auf der mindestens 20% der Fachschaften vertreten sind. § 13 gilt
+FK, auf der mindestens 20% der Fachschaften vertreten sind. § 14 gilt
 entsprechend.
 
 (3) Im Falle einer planwidrigen Regelungslücke ist die Geschäftsordnung des
