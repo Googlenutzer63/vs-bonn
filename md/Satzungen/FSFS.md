@@ -294,7 +294,7 @@ Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der
 
 ### § 13 Buchführung
 
-(1) Es sind zwei seprate Übersichten über die Buchungen zu führen. Die erste Übersicht erfasst alle Buchungen in der Reihenfolge in der sie geleistet wurden (zeitliche Abfolge). Die zweite Übersicht erfasst alle Buchungen geordnet nach den jeweiligen Haushaltstiteln.
+(1) Es sind zwei separate Übersichten über die Buchungen zu führen. Die erste Übersicht erfasst alle Buchungen in der Reihenfolge in der sie geleistet wurden (zeitliche Abfolge). Die zweite Übersicht erfasst alle Buchungen geordnet nach den jeweiligen Haushaltstiteln.
 
 (2) Die Kassenanordnungen sind nach Titeln getrennt fortlaufend zu nummerieren und in der Reihenfolge der Buchungen zu ordnen.
 
