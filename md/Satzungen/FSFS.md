@@ -462,50 +462,52 @@ sich nach den Bestimmungen dieser Satzung.
 Antragsanlässen ist der Endzeitpunkt maßgeblich. Dem Antrag sind die in Anlage 1
 geforderten Unterlagen beizufügen. Das FSK hat das Recht unvollständige Anträge zurückzuweisen.
 
-(3) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
+(3) In dem Antrag ist anzugeben auf welchen bestimmten Titel aus der Anlage 1 er sich bezieht. Ein Antrag darf sich maximal auf einen bestimmten Titel aus der Anlage 1 beziehen. Anträge die sich nicht auf einen bestimmten Titel aus der Anlage 1 beziehen, bedürfen einer Vorankündigung gemäß § 24.
+
+(4) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
 
-(4) Ein abgelehnter oder teilweise bewilligter Antrag kann nicht noch einmal
+(5) Ein abgelehnter oder teilweise bewilligter Antrag kann nicht noch einmal
 gestellt werden. Ein Antrag gilt als abgelehnt, wenn die FK ihn durch
 Mehrheitsbeschluss nicht bewilligt. Er gilt als teilweise bewilligt, wenn der
 Antragssumme nicht in voller Höhe zugestimmt wurde.
 
-(5) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
+(6) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
 vorgestellt werden konnten, gelten als nicht gestellt und müssen neu beantragt werden.
 Angenommene Anträge verfallen mit Abschluss des sechsten Semesters nach dem Semester für welches der Antrag gestellt wurde, sofern sie aufgrund
 inkorrekter Angaben oder mangels Auszahlungsfähigkeit nicht ausgezahlt werden
 konnten.
 
-(6) Wird ein Antrag eingereicht, der mehrere Veranstaltungen oder Anschaffungen
+(7) Wird ein Antrag eingereicht, der mehrere Veranstaltungen oder Anschaffungen
 beinhaltet, so kann das FSK ihn der FK zur besseren Übersicht aufgegliedert
 vorlegen. Der Antrag wird weiterhin in einem abgestimmt und der entsprechende
 Höchstsatz bleibt unberührt. Das FSK kann darüber hinaus nach billigem
 Ermessen Anträge, die mehrere Posten beinhalten, als mehrere separate Anträge
 vorstellen und abstimmen lassen.
 
-(7) Wurde eine der Fristen nach Absatz 5 ohne Verschulden der antragsstellenden
+(8) Wurde eine der Fristen nach Absatz 6 ohne Verschulden der antragsstellenden
 Fachschaft nicht eingehalten, so ist auf Antrag dieser Fachschaft die
 Wiedereinsetzung in den vorigen Stand zu gewähren. Der Antrag auf
 Wiedereinsetzung eines BFSG-Antrags ist innerhalb eines Monats nach Wegfall
 des Hindernisses zu stellen. Die Tatsachen zur Begründung des Antrags auf
 Wiedereinsetzung sind mit dem Antrag einzureichen. 
 
-(8) Wird ein BFSG-Antrag abgestimmt, welcher einen Maximalbetrag nach der
+(9) Wird ein BFSG-Antrag abgestimmt, welcher einen Maximalbetrag nach der
 Anlage 1 zur FKGO übersteigt, ohne, dass eine Vorankündigung diesbezüglich
 vorliegt, gilt dieser Antrag als nur in Höhe des Maximalbetrags bewilligt.
 
-(9) Wurde ein BFSG-Antrag abgestimmt, bei welchem die
+(10) Wurde ein BFSG-Antrag abgestimmt, bei welchem die
 Einnahmen inklusive der BFSG die Ausgaben für den BFSG-Antrag
 übersteigen, so kürzt das FSK diesen Antrag auf den Betrag, ab dem
 sich die Einnahmen mit den Ausgaben decken. Dies ist auch im Nachhinein möglich und soll insbesondere dann erfolgen, wenn sich nach der Abstimmung noch Änderungen diesbezüglich ergeben. Es hat die betroffene Fachschaft
 hiervon in Kenntnis zu setzen.
 
-(10) Wurde ein BFSG-Antrag unter der Annahme abgestimmt, dass er vollständig
+(11) Wurde ein BFSG-Antrag unter der Annahme abgestimmt, dass er vollständig
 sei und stellt sich erst im Nachhinein heraus, dass Unterlagen fehlerhaft waren
 und sich daraus eine niedrigere Antragssumme hätte ergeben müssen, so kann der
 Antrag innerhalb von drei Monaten erneut vom FSK zur Abstimmung gebracht
 werden. Wird der Antrag erneut abgestimmt, so gilt die erste Abstimmung als
-nichtig. Absatz 4 gilt in diesem Fall nicht.
+nichtig. Absatz 5 gilt in diesem Fall nicht.
 
 
 ### § 22 Fachschaftsübergreifende Ausgaben
