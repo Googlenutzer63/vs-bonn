@@ -751,7 +751,7 @@ kommissarisch im Amt.
 
 (4) Die Kandidatinnen haben sich auf Verlangen vorzustellen.
 
-(5) Das Amt des Vorsitzes des FSK ist unvereinbar mit der Mitgliedschaft in einer
+(5) Das Ämter des Vorsitzes des FSK und seiner zeichnungsberechtigten Stellvertretung ist unvereinbar mit der Mitgliedschaft in einer
 Fachschaftsvertretung (FSV), der Mitgliedschaft in einem Fachschaftsrat (FSR)
 oder einem weiteren Amt innerhalb des AStA.
 
@@ -788,7 +788,8 @@ der Universitätsverwaltung, dem Studierendenwerk und dem Rektorat der
 Universität;
 6. die Information der Fachschaften über wesentliche sie betreffende
 Vorkommnisse und für ihre Arbeit wichtige Abläufe;
-7. die zeitweise Übernahme der Aufgabe von Ausschüssen nach §23 Absatz 9.
+7. die Planung der Selbstbewirtschaftungsmittel der Fachschaften in Anlage 1 zur FSFS, Beitragsordnung (BO) und im Haushaltsplan (HHP) der Studierendenschaft in Abstimmung mit dem AStA-Finanzreferat 
+8. die zeitweise Übernahme der Aufgabe von Ausschüssen nach §24 Absatz 8.
 
 (2) Darüber hinaus ist das FSK für die folgenden Aufgaben von gehobener
 Bedeutung für die Fachschaften verantwortlich:
