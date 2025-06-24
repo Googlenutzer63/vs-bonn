@@ -460,9 +460,9 @@ sich nach den Bestimmungen dieser Satzung.
 
 (2) BFSG werden auf Antrag nach vorheriger Prüfung durch das FSK und Bewilligung des Antrags durch die FK ausgezahlt. BFSG können nur für das aktuelle und für das vorangegangene Semester beantragt werden. Bei mehrtägigen
 Antragsanlässen ist der Endzeitpunkt maßgeblich. Dem Antrag sind die in Anlage 1
-geforderten Unterlagen beizufügen. Das FSK hat das Recht unvollständige Anträge zurückzuweisen.
+geforderten Unterlagen beizufügen. Das FSK hat das Recht unvollständige Anträge welche nicht mehr vollständigbar sind zurückzuweisen.
 
-(3) In dem Antrag ist anzugeben auf welchen bestimmten Titel aus der Anlage 1 er sich bezieht. Ein Antrag darf sich maximal auf einen bestimmten Titel aus der Anlage 1 beziehen. Anträge die sich nicht auf einen bestimmten Titel aus der Anlage 1 beziehen, bedürfen einer Vorankündigung gemäß § 24.
+(3) In dem Antrag ist anzugeben auf welchen bestimmten Titel aus der Anlage 1 er sich bezieht. Ein Antrag darf sich maximal auf einen bestimmten Titel aus der Anlage 1 beziehen. 
 
 (4) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
@@ -512,19 +512,23 @@ nichtig. Absatz 5 gilt in diesem Fall nicht.
 
 ### § 22 Fachschaftsübergreifende Ausgaben
 
-(1) Das Fachschaftenkollektiv (FSK) kann auf der FK Besondere
-Fachschaftengelder (BFSG) für fachschaftsübergreifende Maßnahmen und
+(1) Mindestens zwei Fachschaften können auf der FK Besondere
+Fachschaftengelder (BFSG) für
+fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
+Antrag muss die Verteilung der Gelder unter den Fachschaften regeln. Bei
+Bewilligung wird die Summe auf Basis des Antrags auf die Fachschaftskonten
+ausgezahlt. In diesen Fällen muss die FK die Anträge vor Beginn
+der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
+nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
+abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
+Raumes bedürfen abweichend von § 24 Absatz 1 keiner Vorankündigung.
+
+(2) Das Fachschaftenkollektiv (FSK) kann auf der FK ebenfalls BFSG für fachschaftsübergreifende Maßnahmen und
 Anschaffungen beantragen. In diesen Fällen muss die FK die Anträge vor Beginn
 der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
 nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
 abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
 Raumes bedürfen abweichend von § 24 Absatz 1 keiner Vorankündigung. § 23 Absätze 7 bis 8 gelten nicht. Wenn die Rechnungen/Verbindlichkeiten nicht direkt durch das FSK beglichen werden können, kann eine Auszahlung nach Vorlage der entsprechenden Belege auch an ein in Vorleistung gegangenes Mitglied des FSKs erfolgen. Die Auszahlung erfolgt lediglich in Höhe in der die Ausgaben auch tatsächlich erfolgt sind.
-
-(2) Mindestens zwei Fachschaften können auf der FK ebenfalls BFSG für
-fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
-Antrag muss die Verteilung der Gelder unter den Fachschaften regeln. Bei
-Bewilligung wird die Summe auf Basis des Antrags auf die Fachschaftskonten
-ausgezahlt.
 
 
 ### § 23 Kriterien zur Vergabe der BFSG
@@ -580,8 +584,7 @@ Verpflegung und sonstigen Gütern.
 tatsächlichen Kosten nach einer Vorankündigung gemäß § 24 erstattet werden.
 
 Bei jeglicher Mobilität soll geprüft werden, wie diese möglichst nachhaltig und
-inklusiv gestaltet werden kann. Das AStA-Ökologiereferat leistet Hilfestellungen
-zu Fragen der nachhaltigen Reisegestaltung.
+inklusiv gestaltet werden kann. 
 
 Bei der Planung einer Reise sind die Prinzipien der Wirtschaftlichkeit und
 Sparsamkeit zu beachten.
@@ -602,7 +605,7 @@ Raumes müssen vor Beginn der Maßnahme vorangekündigt werden. Beschließt
 die FK die Annahme der Vorankündigung, so kann die Fachschaft bei einem
 späteren Antrag auf BFSG in dem durch die
 Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
-Vorgaben zu einzureichenden Dokumenten sind hiervon ausgenommen.
+Vorgaben zu einzureichenden Dokumenten, sowie der Zeitraum zur Berechnung der Jahreshöchstbeträge sind hiervon ausgenommen.
 
 (2) Das FSK soll Vorankündigungen die nicht auf dem entsprechenden Formblatt gestellt wurden zurückweisen, solange die Plattform nach § 5 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden. Eine Begründung der
 Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
@@ -859,7 +862,7 @@ Vorankündigung.
 |  | Titel | Höchstsatz |
 |--|-------|------------|
 |h | Sachmittel | 500 € pro Jahr |
-|i | Ausrichtung Fachschaftentagung | 2500 € pro BuFaTa |
+|i | Ausrichtung Fachschaftentagung | 2500 € |
 |j | Fachschaftskleidung | 400 € pro Jahr |
 |k | Fachschaftsneugründung | 2000 € |
 |l | Wiederaufbauunterstützung | 1000 € |
@@ -898,7 +901,7 @@ eine Stellungnahme nachzureichen.
 
 ##### 5.1.5 Wiederaufbauunterstützung
 
-1. Maßgeblich ist, dass in den 5 Semestern vor Antragsstellung über einen zusammenhängenden Zeitraum von mindestens 3 ganzen Semestern keine Wahl im Sinne FSWO durchgeführt wurde.
+1. Maßgeblich ist, dass in den 5 Semestern vor Antragsstellung über einen zusammenhängenden Zeitraum von mindestens 3 ganzen Semestern keine Wahl im Sinne der FSWO durchgeführt wurde.
 2. Von einem Awarenessbericht kann abgesehen werden. Es ist aber auf Anfrage
 eine Stellungnahme nachzureichen.
 
