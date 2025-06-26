@@ -429,7 +429,7 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 
 (3) Stichtag für die Berechnung der AFSG-Verteilung ist für Sommersemester der 15. Mai und für Wintersemester der 15. November.
 
-(4) Für die Studierendenzahl gilt die Auskunft der Universitätsverwaltung für das betreffende Semester.
+(4) Die Universitätsverwaltung stellt dem FSK die Daten zur Ermittlung der AFSG-Verteilung benötigten Daten zur Verfügung. Die AFSG Verteilung ist ausschließlich auf Grundlage dieser zu berechnen.
 
 
 ### § 20 Reservierung der AFSG
