@@ -607,6 +607,8 @@ späteren Antrag auf BFSG in dem durch die
 Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
 Vorgaben zu einzureichenden Dokumenten, sowie der Zeitraum zur Berechnung der Jahreshöchstbeträge sind hiervon ausgenommen.
 
+(Konkretisierung für morgen geplant)
+
 (2) Das FSK soll Vorankündigungen die nicht auf dem entsprechenden Formblatt gestellt wurden zurückweisen, solange die Plattform nach § 5 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden. Eine Begründung der
 Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
 beizufügen.
