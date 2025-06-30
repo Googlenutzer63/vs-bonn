@@ -612,9 +612,8 @@ Raumes müssen vor Beginn der Maßnahme vorangekündigt werden. Beschließt
 die FK die Annahme der Vorankündigung, so kann die Fachschaft bei einem
 späteren Antrag auf BFSG in dem durch die
 Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
-Vorgaben zu einzureichenden Dokumenten, sowie der Zeitraum zur Berechnung der Jahreshöchstbeträge sind hiervon ausgenommen.
+Die allgemeinen Regelungen nach Nr. 1 der Anlage 1 sind hiervon ausgenommen. Vorankündigung müssen sich auf genau einen Titel aus der Anlage 1 beziehen. Dieser ist im Antrag anzugeben.
 
-(Konkretisierung für morgen geplant)
 
 (2) Das FSK soll Vorankündigungen die nicht auf dem entsprechenden Formblatt gestellt wurden zurückweisen, solange die Plattform nach § 5 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden. Eine Begründung der
 Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
@@ -747,6 +746,7 @@ Allgemeinen Fahrten und Exkursionen außerdem eine Teilnehmerliste mit Unterschr
 Teilnehmenden. Bei Druckwerken die entsprechende Bebilderung oder ein
 Belegexemplar. Sowie alle weiteren, unter den jeweiligen Punkten geforderten,
 Unterlagen.
+
 
 ### 2. Veranstaltungen
 
