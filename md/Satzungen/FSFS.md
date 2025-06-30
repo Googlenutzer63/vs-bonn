@@ -223,7 +223,7 @@ Die übrigen Bestandteile sind informativer Natur.
 Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshaushaltsplan korrigiert werden.
 Änderungen und Korrekturen am informativen Teil eines Haushaltsplans können redaktionell erfolgen.
 
-(7) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 5 %, mindestens aber 100 € vom im Haushaltsplan veranschlagten Betrag des Überschusses bzw. Fehlbetrags ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
+(7) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 5 %, mindestens aber 100 € vom im Haushaltsplan für das laufende Haushaltsjahr veranschlagten Betrag des Überschusses bzw. Fehlbetrags ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen. Die Feststellung des tatsächlichen Überschuss bzw. Fehlbetrag erfolgt nach Abschluss eines Haushaltsjahres durch die Haushaltsrechnung nach § 16.
 
 (8) Ein Haushaltsplan ist gültig, wenn er die in den Absätzen 1 bis 5 festgelegten Anforderungen erfüllt. Andernfalls ist er ungültig. 
 
@@ -258,7 +258,13 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 ### § 10 Finanzreferentin
 
-Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der Fachschaft verantwortlich (Finanzreferentin).
+(1) Ein Mitglied des FSR ist für die Bewirtschaftung der Einnahmen und Ausgaben der Fachschaft verantwortlich (Finanzreferentin).
+
+(2) Die Finanzreferentin kann im Rahmen einer geordneten und jederzeit übersichtlichen Wirtschaftsführung darüber hinaus weitere Mitglieder des FSRs mit der Wahrnehmung einzelner Befugnisse schriftlich oder elektronisch beauftragen.
+
+(3) Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Sie kann durch die Finanzreferentin im Einvernehmen mit der Vorsitzenden des FSR einzelnen anderen Mitgliedern des FSR für ihren jeweiligen Zuständigkeitsbereich schriftlich oder elektronisch übertragen werden.
+
+(4) Die Anordnung nach §12 Absatz 5 obliegt der Finanzreferentin. Die Finanzreferentin kann die Befugnis nach Satz 1 weiteren Mitgliedern des FSRs, denen Befugnisse nach Absatz 2 zustehen, übertragen, sofern die Fachschaftssatzung nichts gegenteiliges vorsieht.
 
 
 ### § 11 Kassenführung
@@ -460,9 +466,10 @@ sich nach den Bestimmungen dieser Satzung.
 
 (2) BFSG werden auf Antrag nach vorheriger Prüfung durch das FSK und Bewilligung des Antrags durch die FK ausgezahlt. BFSG können nur für das aktuelle und für das vorangegangene Semester beantragt werden. Bei mehrtägigen
 Antragsanlässen ist der Endzeitpunkt maßgeblich. Dem Antrag sind die in Anlage 1
-geforderten Unterlagen beizufügen. Das FSK hat das Recht unvollständige Anträge welche nicht mehr vollständigbar sind zurückzuweisen.
+geforderten Unterlagen beizufügen. Das FSK hat das Recht Anträge, die nicht mehr vervollständigt werden können, zurückzuweisen. Im Falle eines Widerspruchs, der mindestens die zur Vervollständigung nötigen Dokumente und Informationen beinhaltet, ist die Zurückweisung zurückzunehmen.
 
-(3) In dem Antrag ist anzugeben auf welchen bestimmten Titel aus der Anlage 1 er sich bezieht. Ein Antrag darf sich maximal auf einen bestimmten Titel aus der Anlage 1 beziehen. 
+
+(3) Ein Antrag muss sich auf genau einen Titel aus der Anlage 1 beziehen. Dieser ist im Antrag anzugeben.
 
 (4) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
