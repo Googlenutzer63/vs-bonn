@@ -751,7 +751,7 @@ kommissarisch im Amt.
 
 (4) Die Kandidatinnen haben sich auf Verlangen vorzustellen.
 
-(5) Das Ämter des Vorsitzes des FSK und seiner zeichnungsberechtigten Stellvertretung ist unvereinbar mit der Mitgliedschaft in einer
+(5) Die Ämter des Vorsitzes des FSK und seiner zeichnungsberechtigten Stellvertretung sind unvereinbar mit der Mitgliedschaft in einer
 Fachschaftsvertretung (FSV), der Mitgliedschaft in einem Fachschaftsrat (FSR)
 oder einem weiteren Amt innerhalb des AStA.
 
