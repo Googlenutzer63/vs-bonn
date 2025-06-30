@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Finanzen der Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (Fachschaftenfinanzsatzung - FSFS)
 short: Satzung über die Finanzen der Fachschaften (Fachschaftenfinanzsatzung - FSFS)
-date:  – Entwurfsfassung –
+date:  30.06.2025
 type:  Satzung
 id:    FSFS
 contains:
@@ -919,3 +919,13 @@ eine Stellungnahme nachzureichen.
 Fortbildende Maßnahmen, die im unmittelbaren Zusammenhang mit der
 Fachschaftsarbeit stehen, wie etwa Erste-Hilfe-Kurse oder Schulungen für
 Awarenessmaßnahmen.
+
+
+
+
+Bonn, den 30.06.2025
+
+
+
+Luc Augustin
+*FK-Vorsitz*
