@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  – Entwurfsfassung –
+date:  30. Juni 2025
 type:  Ordnung
 id:    FKGO
 contains:
@@ -942,3 +942,10 @@ entsprechend.
 
 (3) Im Falle einer planwidrigen Regelungslücke ist die Geschäftsordnung des
 Bonner Studierendenparlaments entsprechend anzuwenden.
+
+
+Bonn, den 30.06.2025
+
+Luc Augustin
+
+*FK-Vorsitz*
